@@ -1,0 +1,7 @@
+---
+layout: post
+title: Victory
+---
+...at least according to the meters. After some sanity checking from a couple of youtube videos and the Amateur radio subreddit, I shortened both legs by about 5" and now have a good, sub 1.5 SWR across 40m! Frustrating though it was at first, I learned the process of tuning/pruning, which should be useful for future antenna work. If I can pick up an inexpensive SWR meter at a hamfest, I probably will, but the meter in the radio is going to suffice for now.
+
+Will work to re-add the 20m legs soon, but not right now. I'm done with the attic for a day or two.

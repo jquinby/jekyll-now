@@ -1,0 +1,13 @@
+---
+layout: post
+title: Bleargh
+---
+The ham tickets are frequently described as a license to learn. The impatient guy in me just wants everything to work. On the other hand, trying, failing, and getting better is one of the actual points of the hobby and it's good to be regularly reminded.
+
+It turns out that my dipoles are wonkier than I thought. Possibly _way_ wonkier. I finally figured out how to effectively use the SWR meter built into the FT-450D and both the 40m and 20m antennas are reading too short. At the low ends of the bands, the readings are pretty good. At the top end, they're off the chart, which is not good at all.
+
+How did I finally get an accurate reading? A commonly suggested setting for operators using external tuners is to map the *C.S* button onto the front to the SWR setting. Once this is done, pressing *C.S* will generate a 10 watt CW tone for as long you hold it down. The procedure is covered on page 16 of the fine manual, by the way. This kick-starts the external tuner and you're off to the races. In my case, the constant signal on the internal SWR meter turned out to be enough for me to see that things were not optimal at all.
+
+This is easily fixed, in principle, by splicing some more wire into them and then trimming back as appropriate. In practice, it's not so simple, since it means returning to the attic and we all know how much fun that is. In any case, another possible culprit is an anti-static-electricity component built in to the Alpha Delta center insulator. I found some information on a forum thread that said it could make tuning screwy, and as the antenna is basically indoors, it's probably not necessary. I can yank it easily enough to see if it makes a difference.
+
+So I learned more about the radio, my antennas, and the rudiments of tuning them. I'll call that a win.

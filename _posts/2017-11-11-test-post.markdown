@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Back on the air and ready to run
+comments: true
+categories: Mathematics
+---
+The Signalink arrived and is performing great. Good signal reports, zero ALC, very precise control over outputs. I can warble and drone with confidence. In other radio news: have moved the end-fed into something of a vertical/sloper situation using the one good tree that’s near the house. It seems to be working pretty well this way. I’m working DX from Alaska well into South America and have logged quite a few contacts in Europe, too. All using FT8 or PSK31 running 10-15 watts at most. Most of the heavy lifting, I am sure, is on the far end. Even so it feels like my success rate has gone up and bodes well for a more permanent vertical antenna setup at some point in the future. For now, this is getting the job done.
+
+The weather should be good for the half-marathon this weekend. I think I’m ready. Everything feels pretty good and I’ll spend the week doing some carb-loading.
+
+_Theology of the Body_ continues apace, as does my studying for the Amateur Extra exam.
