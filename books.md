@@ -9,7 +9,7 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress:_Summa Contra Gentiles_ by St. Thomas Aquinas. Am also revisiting MacIntyre.
+In progress: _Summa Contra Gentiles_ by St. Thomas Aquinas. Am also revisiting MacIntyre.
 
 ---
 
