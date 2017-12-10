@@ -1,0 +1,18 @@
+
+---
+layout: post
+title: /AE, MacIntyre on Aristotle on friendship
+---
+This past weekend I past the Amateur Extra license exam, the final level of the three licenses for US amateur radio operators. I can now operate with full privileges on all bands allotted to US amateurs. Realistically, this gives me access to some portions of the bands that are reserved for Extra-class license holders and useful DX windows. I'll be interested to see what the contest activity is like in these slots during the next on-air shindig. I can also apply for one of those Extra-only vanity callsigns, but the process looks like a giant pain and I really like the one I was issued.
+
+I recently also completed a little Arduino project here at home - a replication of the Christmas light prop used during the first season of Stranger Things. If you know anything about the show, you know what I'm talking about. The lights are iconic for fans, and several DIY projects popped up online for making your own. I had wanted to do something Arduino-related, and this seemed as good a reason as any to get started by way of an actual application. In the process, I got to learn a bit about the Arduino's programming language and addressable LEDs. It's finished, and hanging on the wall as part of our Christmas decorations. I'm already thinking ahead to post-holiday re-tasking. There's a handful of weather station projects that look pretty promising, as well as an AX.25 shield. Are you thinking what I'm thinking? We'll see.
+
+The new antenna setup is still doing yeoman work. One day on 15m, I logged FT8 contacts with the Falkland Islands, a DXpedition in the Galapagos, and my fist two Australia and New Zealand stations. During the daytime, no less. There was a 10m contest this weekend, but every time I've spun the dial, it's been as dead as a doornail. That's life.
+
+I'm almost done with a re-read of _After Virtue_ by Alasdair MacIntyre. Any extract, I think, will do a disservice to the book. It really is good and deserves carefully reading, and probably more than one. I do like this observation he makes on friendship:
+
+>'Friendship' has become for the most part the name of a type of emotional state rather than of a type of social and political relationship. E.M. Forester once remarked that if it came to a choice between betraying his country or betraying his friend, he hoped that he would have the courage to betray his country. In an Aristotelian perspective, anyone who can formulate such a contrast has no country, has no _polis_, he is a citizen of nowhere, an internal exile wherever he lives. Indeed from an Aristotelian point of view a modern liberal democratic society can appear only as a collection of citizens of nowhere who have banded together for their common protection. They possess at best that inferior form of friendship which is founded on mutual advantage. that they lack the bond of friendship is of course bound up with the self-avowed moral pluralism of such liberal societies. They have abandoned the moral unity of Aristotelianism, whether in its ancient or medieval forms.
+
+Later on, he reiterates what Aristotle means by friendship:
+
+>Aristotle, probably responding to Plato's discussion of friendship in the _Lysis_, distinguishes three kinds of friendship: that which derives from mutual utility, that which derives from mutual pleasure, and that which derives from a shared concerns for goods which are the goods of both and therefore exclusively of neither.

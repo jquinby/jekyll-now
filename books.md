@@ -9,7 +9,9 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress: _Summa Contra Gentiles_ by St. Thomas Aquinas. Am also revisiting MacIntyre.
+In progress: _After Virtue_ by Alasdair MacIntyre (re-read)
+
+On Deck: _One, Holy, Catholic and Apostolic_ by Kenneth D. Whitehead
 
 ---
 
@@ -18,7 +20,7 @@ _Forever War_ by Dexter Filkins\\
 _A Study of History_ (the two volume abridgement) by Arnold Toynbee\\
 _Culture and Anarchy_ by Matthew Arnold \\
 _The End of the Modern World_ and _The Lord_ by Romano Guardini\\
-_Laudato Si_  and _Amoris Laetitia_ by Pope Francis\\
+_Laudato Si_ and _Amoris Laetitia_ by Pope Francis\\
 _The Intellectual Life: Its Spirit, Conditions, Methods_ by A.G. Sertillanges, O.P.\\
 _Aristotle For Everybody_ by Mortimer J. Adler\\
 _The Dark Tower I-VII_ by Stephen King\\
@@ -55,6 +57,7 @@ _Theology for Beginners_ by Frank Sheed\\
 _The Four Cardinal Virtues_ by Josef Pieper\\
 _Theology and Sanity_ by Frank Sheed\\
 _The Hundred Days_ by Patrick O'Brian\\
+_The Marx-Engels Reader_ edited by Robert C. Tucker
 _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ by Cathy O'Neil\\
 _Under Western Eyes_ by Joseph Conrad\\
 _Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II\\
