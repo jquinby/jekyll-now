@@ -57,7 +57,7 @@ _Theology for Beginners_ by Frank Sheed\\
 _The Four Cardinal Virtues_ by Josef Pieper\\
 _Theology and Sanity_ by Frank Sheed\\
 _The Hundred Days_ by Patrick O'Brian\\
-_The Marx-Engels Reader_ edited by Robert C. Tucker
+_The Marx-Engels Reader_ edited by Robert C. Tucker\\
 _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ by Cathy O'Neil\\
 _Under Western Eyes_ by Joseph Conrad\\
 _Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II\\
