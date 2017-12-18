@@ -9,9 +9,9 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress: _After Virtue_ by Alasdair MacIntyre (re-read)
+In progress: _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger (reread)\\
 
-On Deck: _One, Holy, Catholic and Apostolic_ by Kenneth D. Whitehead
+On Deck: TBD
 
 ---
 
@@ -62,4 +62,5 @@ _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens De
 _Under Western Eyes_ by Joseph Conrad\\
 _Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II\\
 _Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_ by Mary Eberstadt\\
-_Theology of the Body 101_ lecture series, Prof. Mary Stanford, Christendom College
+_Theology of the Body 101_ lecture series, Prof. Mary Stanford, Christendom College\\
+_One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)\\
