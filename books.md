@@ -9,7 +9,9 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress: _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger (reread)\\
+In progress: \\
+_The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger (reread)\\
+_Farenheit 451_ by Ray Bradbury\\
 
 On Deck: TBD
 
