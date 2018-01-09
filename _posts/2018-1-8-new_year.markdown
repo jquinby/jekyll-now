@@ -3,8 +3,8 @@ layout: post
 title: Happy January
 ---
 
->Then came old Ianuary, wrapped well
->In many weeds to keep the cold away;
+>Then came old Ianuary, wrapped well  
+>In many weeds to keep the cold away;  
 &mdash; Spenser
 
 We are settling back into normal routines after the Christmas season, having put all the decorations away on the 6th and, for the most part, returned to normal work and school schedules. For me, this means:
