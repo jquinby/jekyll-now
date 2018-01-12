@@ -65,5 +65,5 @@ _Under Western Eyes_ by Joseph Conrad\\
 _Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II\\
 _Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_ by Mary Eberstadt\\
 _Theology of the Body 101_ lecture series, Prof. Mary Stanford, Christendom College\\
-_One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)
+_One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)  
 _Farenheit 451_ by Ray Bradbury
