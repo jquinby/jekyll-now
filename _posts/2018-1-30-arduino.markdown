@@ -1,0 +1,26 @@
+---
+layout: post
+title: Arduino stuff
+---
+
+Radio stuff went on hold for a bit while I rebuilt the workstation I use to drive
+all of my apps. A comedy of errors resulted in me physically knocking the thing over
+which clobbered the hard drive and that was that. Even so, I was able to pull most
+everything off before it gave up the ghost entirely. A new HDD has been installed and
+everything is right as rain. I've been exploring OLIVIA a bit. It's a fun mode, and a
+nice change from the FT8 grind.
+
+I have been extensively playing around with Arduino stuff in the meanwhile, and have added
+a WINC 1500 WiFi shield to the 2560. Along with a BME280 sensor which returns temperature, humidity,
+and barometric pressure, the thing works as a pretty nice little remote weather station. The
+only two things I would add are an anemometer and a wind vane. The vane, I think, will be
+relatively straightforward and use a 360-degree potentiometer. For counting the RPMs of an
+anemometer, I've been looking at reed switches and Hall effect sensors and keeping my eyes
+out for a suitable bearing. Then I need to enclose the whole thing, figure out power and
+siting, and land on a sink for the data (local? cloud? APRS-IS?).
+
+Started some preliminary planning for the spring garden: tomatoes, squash, flowers, garlic.
+Also putting feelers out for bees as we slowly approach spring. Looking forward to rebooting
+the apiary after last summer's dismal end.
+
+Reading: _Apologia Pro Vita Sua_ by John Henry Cardinal Newman.  
