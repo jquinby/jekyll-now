@@ -9,7 +9,7 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress: _Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
+In progress: _Human Life, Action and Ethics_ by G.E.M. Anscombe
 
 On Deck: TBD
 
@@ -67,3 +67,4 @@ _One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)
 _Farenheit 451_ by Ray Bradbury  
 _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger  
 _Collected Short Stories_ by Graham Greene
+_Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
