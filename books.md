@@ -65,6 +65,6 @@ _Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_ by Mary Eberst
 _Theology of the Body 101_ lecture series, Prof. Mary Stanford, Christendom College\\
 _One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)  
 _Farenheit 451_ by Ray Bradbury  
-_The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger  
-_Collected Short Stories_ by Graham Greene
+_The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger    
+_Collected Short Stories_ by Graham Greene  
 _Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
