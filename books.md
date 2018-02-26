@@ -9,7 +9,9 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress: _Human Life, Action and Ethics_ by G.E.M. Anscombe
+In progress: 
+_Human Life, Action and Ethics_ by G.E.M. Anscombe  
+_The Old Testament in the Light of the New_ by Stephen B. Clark  
 
 On Deck: TBD
 
