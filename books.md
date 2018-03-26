@@ -73,4 +73,4 @@ _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger
 _Collected Short Stories_ by Graham Greene  
 _Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
 _Human Life, Action and Ethics_ by G.E.M. Anscombe  
-_A Canticle for Liebowitz_ by Walter Miller  
+_A Canticle for Leibowitz_ by Walter Miller  
