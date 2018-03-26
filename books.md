@@ -14,7 +14,7 @@ _The Old Testament in the Light of the New_ by Stephen B. Clark
 
 On Deck:  
 _The Wisdom of the Desert_ by Thomas Merton  
-_Conjectures of Guilty Bystander_ by Thomas Merton
+_Conjectures of Guilty Bystander_ by Thomas Merton  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO
 
 ---
