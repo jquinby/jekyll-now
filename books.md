@@ -10,10 +10,12 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:   
-_Human Life, Action and Ethics_ by G.E.M. Anscombe  
 _The Old Testament in the Light of the New_ by Stephen B. Clark  
 
-On Deck: TBD
+On Deck:  
+_The Wisdom of the Desert_ by Thomas Merton  
+_Conjectures of Guilty Bystander_ by Thomas Merton
+_Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO
 
 ---
 
@@ -70,3 +72,5 @@ _Farenheit 451_ by Ray Bradbury
 _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger      
 _Collected Short Stories_ by Graham Greene  
 _Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
+_Human Life, Action and Ethics_ by G.E.M. Anscombe  
+_A Canticle for Liebowitz_ by Walter Miller  
