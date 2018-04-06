@@ -9,13 +9,12 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress:   
-_The Old Testament in the Light of the New_ by Stephen B. Clark  
+In progress:  
+_Theology of the Body Explained_ by Christopher West  
+_Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO
 
 On Deck:  
-_The Wisdom of the Desert_ by Thomas Merton  
 _Conjectures of Guilty Bystander_ by Thomas Merton  
-_Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO
 
 ---
 
@@ -74,3 +73,6 @@ _Collected Short Stories_ by Graham Greene
 _Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
 _Human Life, Action and Ethics_ by G.E.M. Anscombe  
 _A Canticle for Leibowitz_ by Walter Miller  
+_The Old Testament in the Light of the New_ by Stephen B. Clark  
+_The Wisdom of the Desert_ by Thomas Merton    
+
