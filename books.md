@@ -76,5 +76,5 @@ _The End of the Modern World_ and _The Lord_ by Romano Guardini\\
 _Culture and Anarchy_ by Matthew Arnold \\
 _A Study of History_ (the two volume abridgement) by Arnold Toynbee\\
 _Forever War_ by Dexter Filkins\\
-_Thirteen Days in September: Carter, Begin, and Sadat at Camp David_ by Lawrence Wright\\
+_Thirteen Days in September: Carter, Begin, and Sadat at Camp David_ by Lawrence Wright
 
