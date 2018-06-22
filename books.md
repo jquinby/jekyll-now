@@ -9,7 +9,7 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress:
+In progress:  
 _The Old Testament in the Light of the New_ by Stephen B. Clark  
 _Theology of the Body Explained_ by Christopher West  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
