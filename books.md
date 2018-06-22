@@ -9,19 +9,20 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 
 This list is updated as I finish things and add to the incoming queue.
 
-In progress:  
+In progress:
+_The Old Testament in the Light of the New_ by Stephen B. Clark  
 _Theology of the Body Explained_ by Christopher West  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
-_Conjectures of Guilty Bystander_ by Thomas Merton  
-_The Bible and The Liturgy_ by Jean Daniélou, SJ  
+_Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.
 
 ---
 Completed, most recent at the top:  
 
+_Conjectures of Guilty Bystander_ by Thomas Merton  
+_The Bible and The Liturgy_ by Jean Daniélou, SJ  
 _The Wisdom of the Desert_ by Thomas Merton    
-_The Old Testament in the Light of the New_ by Stephen B. Clark  
 _A Canticle for Leibowitz_ by Walter Miller  
 _Human Life, Action and Ethics_ by G.E.M. Anscombe  
 _Apologia Pro Vita Sua_ by John Henry Cardinal Newman  
@@ -29,7 +30,7 @@ _Collected Short Stories_ by Graham Greene
 _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger      
 _Farenheit 451_ by Ray Bradbury  
 _One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)  
-_Theology of the Body 101_ lecture series, Prof. Mary Stanford, Christendom College\\
+_Theology of the Body 101_ iTunes lecture series, Prof. Mary Stanford, Christendom College\\
 _Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_ by Mary Eberstadt\\
 _Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II\\
 _Under Western Eyes_ by Joseph Conrad\\
