@@ -18,7 +18,7 @@ TBD
 
 ---
 Completed, most recent at the top:  
-_Annihilation_, _Authority_, and _Acceptance_ by Jeff VanderMeer
+_Annihilation_, _Authority_, and _Acceptance_ by Jeff VanderMeer  
 _Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.  
 _Theology of the Body Explained_ by Christopher West  (mostly completed)
 _The Old Testament in the Light of the New_ by Stephen B. Clark  
