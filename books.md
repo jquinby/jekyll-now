@@ -10,15 +10,16 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
+_The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield    
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
-_Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.  
 
 On Deck:  
-_The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield  
+TBD  
 
 ---
 Completed, most recent at the top:  
-
+_Annihilation_, _Authority_, and _Acceptance_ by Jeff VanderMeer
+_Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.  
 _Theology of the Body Explained_ by Christopher West  (mostly completed)
 _The Old Testament in the Light of the New_ by Stephen B. Clark  
 _Conjectures of Guilty Bystander_ by Thomas Merton  
