@@ -10,7 +10,7 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_Chapterhouse Dune_ by Frank Herbert
+_Chapterhouse Dune_ by Frank Herbert  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
