@@ -10,14 +10,17 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield    
+_Chapterhouse Dune_ by Frank Herbert
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
 TBD  
 
 ---
-Completed, most recent at the top:  
+Completed, most recent at the top:
+
+_The Dune Chronicles, 1-5_ by Frank Herbert  
+_The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield    
 _Annihilation_, _Authority_, and _Acceptance_ by Jeff VanderMeer  
 _Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.  
 _Theology of the Body Explained_ by Christopher West  (mostly completed)  
@@ -32,22 +35,22 @@ _Collected Short Stories_ by Graham Greene
 _The Spirit of the Liturgy_ by Joseph Cardinal Ratzinger      
 _Farenheit 451_ by Ray Bradbury  
 _One, Holy, Catholic, and Apostolic_ by Kenneth Whitehead (sections)  
-_Theology of the Body 101_ iTunes lecture series, Prof. Mary Stanford, Christendom College\\
-_Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_ by Mary Eberstadt\\
-_Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II\\
-_Under Western Eyes_ by Joseph Conrad\\
-_Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ by Cathy O'Neil\\
-_The Marx-Engels Reader_ edited by Robert C. Tucker\\
-_The Hundred Days_ by Patrick O'Brian\\
-_Theology and Sanity_ by Frank Sheed\\
-_The Four Cardinal Virtues_ by Josef Pieper\\
-_Theology for Beginners_ by Frank Sheed\\
-_Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ by J.D. Vance\\
-_The Problem of Pain_ by C.S. Lewis\\
-_Summa Theologiae_ by St. Thomas Aquinas (mostly complete, revisiting as needed)\\
-_Ecology of a Cracker Childhood_ by Janisse Ray\\
-_A Man in Full_ by Thomas Wolfe\\
-_Hardboiled Wonderland and the End of the World_ by Haruki Murakami\\
+_Theology of the Body 101_ iTunes lecture series, Prof. Mary Stanford, Christendom College  
+_Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_ by Mary Eberstadt  
+_Man and Woman He Created Them: A Theology of the Body_ by Pope John Paul II  
+_Under Western Eyes_ by Joseph Conrad  
+_Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ by Cathy O'Neil  
+_The Marx-Engels Reader_ edited by Robert C. Tucker  
+_The Hundred Days_ by Patrick O'Brian  
+_Theology and Sanity_ by Frank Sheed  
+_The Four Cardinal Virtues_ by Josef Pieper  
+_Theology for Beginners_ by Frank Sheed  
+_Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ by J.D. Vance  
+_The Problem of Pain_ by C.S. Lewis  
+_Summa Theologiae_ by St. Thomas Aquinas (mostly complete, revisiting as needed)  
+_Ecology of a Cracker Childhood_ by Janisse Ray  
+_A Man in Full_ by Thomas Wolfe  
+_Hardboiled Wonderland and the End of the World_ by Haruki Murakami  
 _Coming Apart: The State of White America, 1960–2010_ by Charles Murray\\
 _The Christian Philosophy of Saint Thomas Aquinas_ by Etienne Gilson\\
 _Catholicism: Christ and the Common Destiny of Man_ by Henri de Lubac\\
