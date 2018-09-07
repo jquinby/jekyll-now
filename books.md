@@ -10,7 +10,7 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_Temple and Contemplation God’s Presence in the Cosmos, Church, and Human Heart_, Various  
+_Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
