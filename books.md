@@ -10,7 +10,7 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_Chapterhouse Dune_ by Frank Herbert  
+_Temple and Contemplation God’s Presence in the Cosmos, Church, and Human Heart_, Various
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
@@ -19,7 +19,7 @@ TBD
 ---
 Completed, most recent at the top:
 
-The _Dune_ series by Frank Herbert  
+The original _Dune_ series by Frank Herbert  
 _The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield    
 _Annihilation_, _Authority_, and _Acceptance_ by Jeff VanderMeer  
 _Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.  
