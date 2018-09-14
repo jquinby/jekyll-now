@@ -14,7 +14,8 @@ _Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Hea
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
-TBD  
+_Mysterium Paschale_ by Hans Urs Van Balthasar  
+_Fifteen Sermons Preached Before the University of Oxford_ John Henry Cardinal Newman  
 
 ---
 Completed, most recent at the top:
