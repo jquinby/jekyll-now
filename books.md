@@ -10,16 +10,16 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
+_Mysterium Paschale_ by Hans Urs Van Balthasar  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
 
 On Deck:  
-_Mysterium Paschale_ by Hans Urs Van Balthasar  
 _Fifteen Sermons Preached Before the University of Oxford_ John Henry Cardinal Newman  
 
 ---
-Completed, most recent at the top:
+Completed, most recent at the top:  
 
+_Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
 The original _Dune_ series by Frank Herbert  
 _The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield    
 _Annihilation_, _Authority_, and _Acceptance_ by Jeff VanderMeer  
