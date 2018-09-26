@@ -2,7 +2,7 @@
 layout: post
 title: von Balthasar
 ---
-Finished von Balthasar's _Mysterium Paschale_. Much of it was beyond me; I can't pretend otherwise. Chapter 4 ("Going to the Dead: Holy Saturday") is something I will probably return to in Lent. I also found this bit from Chapter 2 worth highlighting and saving:
+Finished Hans Urs von Balthasar's _Mysterium Paschale_. Much of it was beyond me; I can't pretend otherwise. Chapter 4 ("Going to the Dead: Holy Saturday") is something I will probably return to in Lent. I also found this bit from Chapter 2 worth highlighting and saving:
 
 > Philosophy can speak of the Cross in many tongues; when it is not the 'Word of the Cross' (1 Corinthians 1,18), issuing from faith in Jesus Christ, it knows too much or too little. Too much: because it makes bold with words and concepts at a point where the Word of God is silent, suffers and dies, in order to reveal what no philosophy can know, except through faith, namely, God's ever greater Trinitarian love; and in order, also, to vanquish what no philosophy can make an end of, human dying so that the human totality may be restored in God. Too little, because philosophy does not measure that abyss into which the Word sinks down, and, having no inkling of it, closes the hiatus, or deliberately festoons the appalling thing with garlands...
 
@@ -24,4 +24,4 @@ Speaking of the Catechism: I've volunteered to assist in our parish's RCIA progr
 
 Speaking of rabbit-holes: I'm working my way through a collection of Newman's sermons on faith and reason. I'll finish the book because I love Newman, but the it's one of those I-bound-a-public-domain-text-and-sold-it-on-Amazon books. Crappy typesetting and so on. If you're going to sell it, add some value, man. Clean it up or throw in some footnotes. Getting to the Newman book means I have nothing in the on-deck circle, something I need to remedy post-haste.
 
-Radio-wise: this summer I was able to get the vertical antenna site, installed, and tuned. Seems to be doing pretty well - I've made my first JA contacts and hope to add to my DXCC pile this winter when there's less yard work to do. Hopefully the bands will improve a bit, too. Made my first attempt to capture some NOAA GOES imagery last week but it was a bust. Like all satellite-related things, the best passes seem to either happen right in the middle of times when I have Other Stuff To Do or when it's raining. 
+Radio-wise: this summer I was able to get the vertical antenna site, installed, and tuned. Seems to be doing pretty well - I've made my first JA contacts and hope to add to my DXCC pile this winter when there's less yard work to do. Hopefully the bands will improve a bit, too. Made my first attempt to capture some NOAA GOES imagery last week but it was a bust. Like all satellite-related things, the best passes seem to either happen right in the middle of times when I have Other Stuff To Do or when it's raining.
