@@ -19,7 +19,7 @@ TBD
 ---
 Completed, most recent at the top:  
 
-_Mysterium Paschale_ by Hans Urs Van Balthasar  
+_Mysterium Paschale_ by Hans Urs Von Balthasar  
 _Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
 The original _Dune_ series by Frank Herbert  
 _The First Philosophers: The Presocratics and Sophists_ by Robin Wakefield    
@@ -85,4 +85,3 @@ _Culture and Anarchy_ by Matthew Arnold
 _A Study of History_ (the two volume abridgement) by Arnold Toynbee  
 _Forever War_ by Dexter Filkins  
 _Thirteen Days in September: Carter, Begin, and Sadat at Camp David_ by Lawrence Wright
-
