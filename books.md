@@ -3,9 +3,9 @@ layout: page
 title: Books
 permalink: /books/
 ---
-Following is a list of the books I've either read or am currently reading. The list has formed somewhat organically, which is to say that some of these lead naturally from one to the next. Others appeared by way of recommendations made by various public figures, still others because they've shown up in the footnotes of some other book I was reading. In addition to the books, I subscribe to _First Things_, _The New Atlantis_, _The Atlantic_, a couple of ACM journals related to work, and - of course - _QST_. If I'm flying or in the car for more than an hour or two, I'm probably listening to lectures from Christendom College's _Major Speaker_, _St. Thomas Aquinas_ or _Faith & Reason_ series.
+Following is a list of the books I've either read or am currently reading. The list has formed somewhat organically, which is to say that some of these lead naturally from one to the next. Others appeared by way of recommendations made by various public figures, still others because they've shown up in the footnotes of some other book I was reading. In addition to the books, I subscribe to _First Things_, _The Atlantic_, a couple of ACM journals related to work, and - of course - _QST_, like any good ham. If I'm flying or in the car for more than an hour or two, I'm probably listening to podcasts by _First Things_ or _99% Invisible_.
 
-Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.firstthings.com/article/2014/01/on-creative-minorities) started the whole thing, if you want to know the truth. I blame him entirely.
+Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.firstthings.com/article/2014/01/on-creative-minorities) started the whole thing, if you want to know the truth. I blame him entirely for bringing Toynbee to my attention.
 
 This list is updated as I finish things and add to the incoming queue.
 
