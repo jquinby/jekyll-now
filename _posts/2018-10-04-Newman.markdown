@@ -1,0 +1,13 @@
+---
+layout: post
+title: Newman on Faith and Reason
+---
+I'm working my way through _Fifteen Sermons Preached Before the University of Oxford_ by John Henry Newman, which is exactly what it sounds like it is. I liked this bit about Faith and Reason, as delivered on Epiphany of 1839.
+
+>...to take a parallel case, a judge can be called the origin, as well as the justifier, of the innocence or truth of those who are brought before him. A judge does not make men honest, but acquits and vindicates them: in like manner, Reason need not be the origin of Faith, as Faith exists in the very persons believing, though it does test and verify it. This, then, is one confusion, which must be cleared up in this question,— the assumption that Reason must be the inward principle of action in religious inquiries or conduct in the case of this or that individual, because, like a spectator, it acknowledges and concurs in what goes on;— the mistake of a critical for a creative power.
+
+[The whole thing](http://www.newmanreader.org/works/oxford/sermon10.html) is very much worth reading. This part in the conclusion is particularly resonant:
+
+>Half the controversies in the world are verbal ones; and could they be brought to a plain issue, they would be brought to a prompt termination. Parties engaged in them would then perceive, either that in substance they agreed together, or that their difference was one of first principles. This is the great object to be aimed at in the present age, though confessedly a very arduous one. We need not dispute, we need not prove,— we need but define. At all events, let us, if we can, do this first of all; and then see who are left for us to dispute with, what is left for us to prove. Controversy, at least in this age, does not lie between the hosts of heaven, Michael and his Angels on the one side, and the powers of evil on the other; but it is a sort of night battle, where each fights for himself, and friend and foe stand together. When men understand each other's meaning, they see, for the most part, that controversy is either superfluous or hopeless.
+
+I very much liked reading _Apologia Pro Vita Sua_, and was eager to read more. This sermon was delivered at the height of his influence at Oxford and at (or near) the beginning of his doubts regarding Anglican theology and authority. Ultimately he would convert to Catholicism, be ordained a priest, and later elevated to Cardinal.
