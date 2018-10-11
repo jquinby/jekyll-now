@@ -12,9 +12,10 @@ This list is updated as I finish things and add to the incoming queue.
 In progress:  
 _Fifteen Sermons Preached Before the University of Oxford_, John Henry Newman  
 _Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
+_An Essay in Aid of a Grammer of Assent_, John Henry Newman  
 
 On Deck:  
-_An Essay in Aid of a Grammer of Assent_, John Henry Newman  
+TBD
 
 ---
 Completed, most recent at the top:  
