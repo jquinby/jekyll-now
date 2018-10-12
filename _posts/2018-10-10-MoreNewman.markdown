@@ -21,5 +21,5 @@ The last sermon in this collection, "The Theory of Developments in Religious Doc
 I was speaking with my pastor the other day and the conversation turned to Newman. He gave me a small book of meditations on his writing. They're short, and very well suited to daily devotional reading. These small gems leave behind, thankfully, the arena of intellectual disputation and reflect a simple, lively joy:
 
 >God has created me to do him some definite service; he has committed some work to me which he has not committed to another. I have my mission - I may never know it in this life, but I shall be told it in the next. Somehow I am necessary for his purposes, as necessary in my place as an archangel in his - if, indeed, I fail, God can raise another, as he could make the stones children of Abraham.
-
+>
 >Yet I have a part in this great work; I am a link in a chain, a bond of connection between persons. He has not created me for nought.  I shall do good. I shall do his work. I shall be an angel of peace, a preacher of truth in my own place, though not intending it, if I do but keep his commandments and serve him in my calling.
