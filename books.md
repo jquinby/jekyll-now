@@ -24,7 +24,7 @@ _With Christ Through The Year: The Liturgical Word in Word and Symbols_, Fr. Ber
 _Fundamentals of the Faith_, Peter Kreeft  
 _One, Holy, Catholic, And Apostolic_, Kenneth Whitehead  
 _The Catholic Sourcebook_, Fr. Peter Klein  
-_The Spirit of the Liturgy_, Cardinal Joseph Ratzinger (Pope Benedict XVI) 
+_The Spirit of the Liturgy_, Cardinal Joseph Ratzinger (Pope Benedict XVI)  
 _Catechism of the Catholic Church_  
 
 ---
