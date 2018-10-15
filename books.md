@@ -11,11 +11,9 @@ This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
 _Fifteen Sermons Preached Before the University of Oxford_, John Henry Newman  
-_Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
-_An Essay in Aid of a Grammer of Assent_, John Henry Newman  
 
 On Deck:  
-TBD
+_The Portable Hannah Arendt_, Hannah Arendt
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
@@ -30,6 +28,8 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_Inside the Psalms: Reflections for Novices_ by Maureen McCabe, OCSO  
+_An Essay in Aid of a Grammar of Assent_, John Henry Newman (halfway)  
 _Mysterium Paschale_ by Hans Urs Von Balthasar  
 _Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
 The original _Dune_ series by Frank Herbert  
