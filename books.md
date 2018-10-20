@@ -37,8 +37,8 @@ _Mysterium Paschale_, Hans Urs Von Balthasar
 _Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
 The original _Dune_ series, Frank Herbert  
 _The First Philosophers: The Presocratics and Sophists_, Robin Wakefield    
-_Annihilation_, _Authority_, and _Acceptance_, Jeff VanderMeer  
-_Compendium on the Diaconate_, USSCB, Enzo Petrolino, Ed.  
+The _Southern Reach_ trilogy, Jeff VanderMeer  
+_Compendium on the Diaconate_, USSCB, ed. Enzo Petrolino
 _Theology of the Body Explained_,  Christopher West  (mostly completed)  
 _The Old Testament in the Light of the New_, Stephen B. Clark  
 _Conjectures of Guilty Bystander_, Thomas Merton  
@@ -46,7 +46,7 @@ _The Bible and The Liturgy_, Jean Daniélou, SJ
 _The Wisdom of the Desert_, Thomas Merton    
 _A Canticle for Leibowitz_, Walter Miller  
 _Human Life, Action and Ethics_, G.E.M. Anscombe  
-_Apologia Pro Vita Sua_, John Henry Cardinal Newman  
+_Apologia Pro Vita Sua_, John Henry Newman  
 _Collected Short Stories_, Graham Greene  
 _The Spirit of the Liturgy_, Joseph Cardinal Ratzinger      
 _Farenheit 451_, Ray Bradbury  
@@ -56,7 +56,7 @@ _Adam and Eve After The Pill: Paradoxes of the Sexual Revolution_, Mary Eberstad
 _Man and Woman He Created Them: A Theology of the Body_, Pope John Paul II  
 _Under Western Eyes_, Joseph Conrad  
 _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_, Cathy O'Neil  
-_The Marx-Engels Reader_ edited, Robert C. Tucker  
+_The Marx-Engels Reader_ ed, Robert C. Tucker  
 _The Hundred Days_, Patrick O'Brian  
 _Theology and Sanity_, Frank Sheed  
 _The Four Cardinal Virtues_, Josef Pieper  
@@ -76,8 +76,10 @@ _Silence_, Shūsaku Endō
 _An Introduction to Philosophy_, Jacques Maritain  
 _Deliverance_, James Dickey  
 _Conscience and Its Enemies: Confronting the Dogmas of Liberal Secularism_, Robert P. George  
-_The Bonfire of the Vanities_ and _Radical Chic & Mau-Mauing the Flak-Catchers_, Thomas Wolfe  
-_The Honourable Schoolboy_ and _Smiley's People_, John Le Carré  
+_The Bonfire of the Vanities_, Thomas Wolfe
+_Radical Chic & Mau-Mauing the Flak-Catchers_, Thomas Wolfe  
+_The Honourable Schoolboy_, John Le Carré  
+_Smiley's People_, John Le Carré  
 _Open Letters: Selected Writings_, Václav Havel  
 _Thirteen Days_, Robert F. Kennedy  
 _It's Dangerous to Believe: Religious Freedom and Its Enemies_, Mary Eberstadt  
@@ -94,8 +96,11 @@ _The Dark Tower I-VII_, Stephen King
 _Aristotle For Everybody_, Mortimer J. Adler  
 _The Intellectual Life: Its Spirit, Conditions, Methods_, A.G. Sertillanges, O.P.  
 _Laudato Si_ and _Amoris Laetitia_, Pope Francis  
-_The End of the Modern World_ and _The Lord_, Romano Guardini  
+_The End of the Modern World_, Fr. Romano Guardini  
+_The Lord_, Fr. Romano Guardini  
 _Culture and Anarchy_, Matthew Arnold  
 _A Study of History_ (two volume abridgement), Arnold Toynbee  
 _Forever War_, Dexter Filkins  
+_Getting Past No: Negotiating in Difficult Situations_, William Ury
+_Getting to Yes: Negotiating Agreement Without Giving In_, Roger Fisher & William Ury  
 _Thirteen Days in September: Carter, Begin, and Sadat at Camp David_, Lawrence Wright
