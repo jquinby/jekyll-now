@@ -32,7 +32,7 @@ by Cathy O'Neil. I get a couple of pubs from ACM; they'd fall into
 this category too (_Communications_ and _Transactions on Internet 
 Technology_). _Getting to Yes_ by Fisher and Ury are another example. 
 
-#### Everything else Frankly a potpourri. 
+#### Everything else  
 Big-idea scifi or historical fiction (think Jeff VanderMeer, Frank 
 Herbert, and Patick O'Brian), nature writing (Henry Beston, Wendell 
 Berry, and Anne Dillard). _The Atlantic_. Current stuff circulating 
