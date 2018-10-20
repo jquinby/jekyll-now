@@ -85,7 +85,7 @@ _Thirteen Days_, Robert F. Kennedy
 _It's Dangerous to Believe: Religious Freedom and Its Enemies_, Mary Eberstadt  
 _Resurrecting the Idea of a Christian Society_, R.R. Reno  
 _The Nicomachean Ethics_ (abridged), Aristotle  
-_Living the Gospel of Life_, USCCB
+_Living the Gospel of Life_, USCCB  
 _After Virtue: A Study in Moral Theory_, Alasdair MacIntyre  
 _Witness_, Whittaker Chambers  
 Various lectures on Aquinas and Boethius from Christendom College  
@@ -102,6 +102,6 @@ _The Lord_, Fr. Romano Guardini
 _Culture and Anarchy_, Matthew Arnold  
 _A Study of History_ (two volume abridgement), Arnold Toynbee  
 _Forever War_, Dexter Filkins  
-_Getting Past No: Negotiating in Difficult Situations_, William Ury
+_Getting Past No: Negotiating in Difficult Situations_, William Ury  
 _Getting to Yes: Negotiating Agreement Without Giving In_, Roger Fisher & William Ury  
-_Thirteen Days in September: Carter, Begin, and Sadat at Camp David_, Lawrence Wright
+_Thirteen Days in September: Carter, Begin, and Sadat at Camp David_, Lawrence Wright  
