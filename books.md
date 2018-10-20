@@ -76,7 +76,7 @@ _Silence_, Shūsaku Endō
 _An Introduction to Philosophy_, Jacques Maritain  
 _Deliverance_, James Dickey  
 _Conscience and Its Enemies: Confronting the Dogmas of Liberal Secularism_, Robert P. George  
-_The Bonfire of the Vanities_, Thomas Wolfe
+_The Bonfire of the Vanities_, Thomas Wolfe  
 _Radical Chic & Mau-Mauing the Flak-Catchers_, Thomas Wolfe  
 _The Honourable Schoolboy_, John Le Carré  
 _Smiley's People_, John Le Carré  
@@ -85,17 +85,18 @@ _Thirteen Days_, Robert F. Kennedy
 _It's Dangerous to Believe: Religious Freedom and Its Enemies_, Mary Eberstadt  
 _Resurrecting the Idea of a Christian Society_, R.R. Reno  
 _The Nicomachean Ethics_ (abridged), Aristotle  
-_Living the Gospel of Life_, the US Council of Catholic Bishops  
+_Living the Gospel of Life_, USCCB
 _After Virtue: A Study in Moral Theory_, Alasdair MacIntyre  
 _Witness_, Whittaker Chambers  
 Various lectures on Aquinas and Boethius from Christendom College  
 _The Consolation of Philosophy_, Boethius  
 _The Conservative Mind: From Burke to Eliot_, Russell Kirk  
 _Summa of the Summa_, Peter Kreeft  
-_The Dark Tower I-VII_, Stephen King  
+The _Dark Tower_ series, Stephen King  
 _Aristotle For Everybody_, Mortimer J. Adler  
 _The Intellectual Life: Its Spirit, Conditions, Methods_, A.G. Sertillanges, O.P.  
-_Laudato Si_ and _Amoris Laetitia_, Pope Francis  
+_Laudato Si_, Pope Francis  
+_Amoris Laetitia_, Pope Francis  
 _The End of the Modern World_, Fr. Romano Guardini  
 _The Lord_, Fr. Romano Guardini  
 _Culture and Anarchy_, Matthew Arnold  
