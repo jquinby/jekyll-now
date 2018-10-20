@@ -38,7 +38,7 @@ _Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Hea
 The original _Dune_ series, Frank Herbert  
 _The First Philosophers: The Presocratics and Sophists_, Robin Wakefield    
 The _Southern Reach_ trilogy, Jeff VanderMeer  
-_Compendium on the Diaconate_, USSCB, ed. Enzo Petrolino
+_Compendium on the Diaconate_, USSCB, ed. Enzo Petrolino  
 _Theology of the Body Explained_,  Christopher West  (mostly completed)  
 _The Old Testament in the Light of the New_, Stephen B. Clark  
 _Conjectures of Guilty Bystander_, Thomas Merton  
