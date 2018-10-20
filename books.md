@@ -10,10 +10,12 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_The Portable Hannah Arendt_, Hannah Arendt
+_The Portable Hannah Arendt_, Hannah Arendt  
+_Zone to Win: Organizing to Compete in an Age of Disuption_ by Geoffrey Moore  
 
 On Deck:  
-TBD  
+_Technology-as-a-Service Playbook_ by Thomas Lah & J.B. Wood  
+_The Reality of God_ Steven R. Hemler  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
