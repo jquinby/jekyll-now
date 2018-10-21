@@ -11,11 +11,10 @@ This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
 _The Portable Hannah Arendt_, Hannah Arendt  
-_Zone to Win: Organizing to Compete in an Age of Disuption_, Geoffrey Moore  
+_The Reality of God_ Steven R. Hemler  
 
 On Deck:  
 _Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
-_The Reality of God_ Steven R. Hemler  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
@@ -30,6 +29,7 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_Zone to Win: Organizing to Compete in an Age of Disuption_, Geoffrey Moore  
 _Fifteen Sermons Preached Before the University of Oxford_, John Henry Newman  
 _Inside the Psalms: Reflections for Novices_, Maureen McCabe, OCSO  
 _An Essay in Aid of a Grammar of Assent_, John Henry Newman (halfway)  
