@@ -11,10 +11,10 @@ This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
 _The Portable Hannah Arendt_, Hannah Arendt  
-_The Reality of God_ Steven R. Hemler  
+_Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
 
 On Deck:  
-_Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
+TBD
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
@@ -29,6 +29,7 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_The Reality of God_ Steven R. Hemler  
 _Zone to Win: Organizing to Compete in an Age of Disuption_, Geoffrey Moore  
 _Fifteen Sermons Preached Before the University of Oxford_, John Henry Newman  
 _Inside the Psalms: Reflections for Novices_, Maureen McCabe, OCSO  
