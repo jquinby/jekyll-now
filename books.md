@@ -10,8 +10,9 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_The Portable Hannah Arendt_, Hannah Arendt  
+_The Portable Hannah Arendt_, Ed. Peter Baehr  
 _Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
+_An Essay on Development of Christian Doctrine_, John Henry Newman  
 
 On Deck:  
 TBD
