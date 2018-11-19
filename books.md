@@ -3,16 +3,16 @@ layout: page
 title: Books
 permalink: /books/
 ---
-Following is a list of the books I've either read or am currently reading. The list has formed somewhat organically, which is to say that some of these lead naturally from one to the next. Others appeare by way of recommendations made by various public figures, still others because they've shown up in the footnotes of some other book I was reading. In addition to the books, I subscribe to _First Things_, _The Atlantic_, a couple of ACM journals related to work, and - of course - _QST_, like any good ham. If I'm flying or in the car for more than an hour or two, I'm probably listening to podcasts, _First Things_ or _99% Invisible_.
+Following is a list of the books I've either read or am currently reading. The list has formed somewhat organically, which is to say that some of these lead naturally from one to the next. Others appeare by way of recommendations made by various public figures, still others because they've shown up in the footnotes of some other book I was reading. In addition to the books, I subscribe to _First Things_, _The Atlantic_, a couple of ACM journals related to work, and - of course - _QST_, like any good ham. If I'm flying or in the car for more than an hour or two, I'm probably listening to podcasts, _First Things_, _Reply All_, or _99% Invisible_.
 
 Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.firstthings.com/article/2014/01/on-creative-minorities) started the whole thing, if you want to know the truth. I blame him entirely for bringing Toynbee to my attention.
 
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_The Portable Hannah Arendt_, Ed. Peter Baehr  
-_Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
+_The Portable Hannah Arendt_, ed. Peter Baehr  
 _An Essay on Development of Christian Doctrine_, John Henry Newman  
+_Seeking God: The Way of Saint Benedict_, Esther de Waal  
 
 On Deck:  
 TBD
@@ -30,7 +30,8 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
-_The Reality of God_ Steven R. Hemler  
+_Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
+_The Reality of God_, Steven R. Hemler  
 _Zone to Win: Organizing to Compete in an Age of Disuption_, Geoffrey Moore  
 _Fifteen Sermons Preached Before the University of Oxford_, John Henry Newman  
 _Inside the Psalms: Reflections for Novices_, Maureen McCabe, OCSO  
