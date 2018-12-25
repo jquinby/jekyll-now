@@ -20,11 +20,11 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_Advent and Christmas with Thomas Merton_, Redemptorist Publication  
-_An Essay on Development of Christian Doctrine_, John Henry Newman  
+_Till We Have Faces_, C.S. Lewis  
 
 On Deck:  
-TBD
+_The Weight of Glory_, C.S. Lewis  
+_Heaven: The Heart's Deepest Longing_, Peter Kreeft  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
@@ -39,6 +39,7 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_An Essay on Development of Christian Doctrine_, John Henry Newman  
 _The Portable Hannah Arendt_, ed. Peter Baehr  
 _Technology-as-a-Service Playbook_, Thomas Lah & J.B. Wood  
 _The Reality of God_, Steven R. Hemler  
