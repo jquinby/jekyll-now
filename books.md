@@ -25,6 +25,7 @@ _Till We Have Faces_, C.S. Lewis
 On Deck:  
 _The Weight of Glory_, C.S. Lewis  
 _Heaven: The Heart's Deepest Longing_, Peter Kreeft  
+_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
