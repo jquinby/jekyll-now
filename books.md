@@ -20,10 +20,10 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
-_Heaven: The Heart's Deepest Longing_, Peter Kreeft  
+_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
 
 On Deck:  
-_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
+TBD  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
@@ -38,6 +38,7 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_Heaven: The Heart's Deepest Longing_, Peter Kreeft  
 _The Weight of Glory_, C.S. Lewis  
 _Till We Have Faces_, C.S. Lewis  
 _An Essay on Development of Christian Doctrine_, John Henry Newman  
