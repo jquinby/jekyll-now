@@ -302,4 +302,4 @@ Sources:
 - _Reading the Old Testament_, Lawrence Boadt, C.S.P.  
 - _The New Jerome Biblical Commentary_, ed. Raymond Brown, S.J.  
 - _The Oxford Handbook of Genocide Studies_, ed. Donald Bloxham and A. Dirk Moses
-- Sagi, Avi. “The Punishment of Amalek in Jewish Tradition: Coping with the Moral Problem.” The Harvard Theological Review, vol. 87, no. 3, 1994, pp. 323–346., www.jstor.org/stable/1509808.
+- Sagi, Avi. “The Punishment of Amalek in Jewish Tradition: Coping with the Moral Problem.” The Harvard Theological Review, vol. 87, no. 3, 1994, pp. 323–346., [www.jstor.org/stable/1509808](www.jstor.org/stable/1509808).
