@@ -23,7 +23,7 @@ In progress:
 _Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
 
 On Deck:  
-TBD  
+_Essays on Ethics: A Weekly Reading of the Jewish Bible_, Rabbi Jonathan Sacks  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
