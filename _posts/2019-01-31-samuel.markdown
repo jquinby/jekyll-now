@@ -6,7 +6,7 @@ title: 1 Samuel 15:3
 Do not spare him; kill men and women, children and infants, oxen and sheep,
 camels and donkeys.
 >
->1 Samuel 15:3
+>[1 Samuel 15:3](http://www.usccb.org/bible/1samuel/15)
 
 What are we to make of this? Samuel has conveyed a message of the Lord to
 Saul: place Amalek (the people) under _the ban_, which amounts
@@ -287,8 +287,8 @@ conscious of the vast distance in time and space between the author and listener
   the gift and graces of faith, and that hard sayings are stumbling blocks.
   Without deep study, we will not be "prepared to give a reason" ([1 Pt 3:15](http://www.usccb.org/bible/1peter/3))
 - We must continually read scripture in its totality, not in bits and pieces, isolated
-  from context and in harmony with the teachings of the Church, though which God continues
-  to sanctify the world and save souls.
+  from context. We must also be sure that we are in harmony with the teachings of the Church, 
+  though which God continues to sanctify the world and save souls.
 
 Sources:  
 - [1 Samuel 15:3, USCCB](http://www.usccb.org/bible/1samuel15:1#09015003-1)  
@@ -303,6 +303,7 @@ Sources:
 - [Torah and Genocide FAQ](https://www.chabad.org/library/article_cdo/aid/2494730/jewish/Torah-and-Genocide-FAQ.htm), Rabbi Tzvi Freeman  
 - [Ancient Jewish History: The Amalekites](https://www.jewishvirtuallibrary.org/the-amalekites) , Jewish Virtual Library  
 - _The Catholic Study Bible_   
+- _The Old Testament in the Light of the New_, Stephen B. Clark  
 - _Reading the Old Testament_, Lawrence Boadt, C.S.P.  
 - _The New Jerome Biblical Commentary_, ed. Raymond Brown, S.J.  
 - _The Oxford Handbook of Genocide Studies_, ed. Donald Bloxham and A. Dirk Moses
