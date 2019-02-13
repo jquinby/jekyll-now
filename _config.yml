@@ -2,7 +2,7 @@
 title:              "scribblings, &c"
 description:        "exactly as described"
 author_name:        "James Quinby" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars2.githubusercontent.com/u/13051899?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 remote_theme:       heiswayi/the-plain
 
 # Site Settings
