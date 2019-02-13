@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I’ve had stuff on the web for a very long time - some of it dating back to the early-to-mid 1990s. Rather than continuing to spread stuff out over a half-dozen different silos, I’ve decided to reclaim ownership of my (questionably useful) content here. Most of the action will be on the blog, but it’s possible that other things will crop up here from time to time.
+I’ve had stuff on the web for a very long time - some of it dating back to the early-to-mid 1990s. Rather than continuing to spread stuff out over a half-dozen different silos, I’ve decided to try to stick to one spot.
 
 You are notified in advance that I blog chiefly to organize my thoughts around books that I’m reading. Semi-regular writing is a way of holding myself accountable to the material. This is my polite way of saying that the bulk of the material on this site has an intended audience of precisely one. Well, maybe two. In other words, there's going to be very little here that's work-related.
 
-I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If you're a ham, you can find out a bit more about my setup at [QRZ](https://www.qrz.com/db/KM4SYN). I also hang around [/r/amateurradio](https://www.reddit.com/r/amateurradio) and in its non-official-yet-somehow affiliated IRC channel (#redditnet on Geekshed).
+I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If you're a ham, you can find out a bit more about my setup at [QRZ](https://www.qrz.com/db/AA4JQ). I also hang around [/r/amateurradio](https://www.reddit.com/r/amateurradio) and in its unofficial IRC channel (#redditnet on Geekshed). Stop in if you have any questions about amateur radio or just about anything else. It's generally a friendly bunch.
 
-Following is a list of the books I've either read or am currently
-reading. The list has formed somewhat organically, which is to say
-that some of these lead naturally from one to the next. Others appeared
-by way of recommendations made by various public figures, still others
-because they've shown up in the footnotes of some other book I was
-reading. In addition to the books, I subscribe to _First Things_, _The
-Atlantic_, a couple of ACM journals related to work, and - of course -
-_QST_, like any good ham. If I'm flying or in the car for more than an
-hour or two, I'm probably listening to podcasts, _First Things_,
-_Reply All_, or _99% Invisible_.
-
-Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.firstthings.com/article/2014/01/on-creative-minorities) started the whole thing, if you want to know the truth. I blame him entirely for bringing Toynbee to my attention.
-
-This list is updated as I finish things and add to the incoming queue.
+Current reading activity is as follows.
 
 In progress:  
 _Essays on Ethics: A Weekly Reading of the Jewish Bible_, Rabbi Jonathan Sacks  
@@ -33,7 +20,7 @@ On Deck:
 TBD  
 
 ---
-Some things I'm using for RCIA (changes stochastically):  
+Some things I'm using for RCIA:  
 
 _With Christ Through The Year: The Liturgical Word in Word and Symbols_, Fr. Bernard Strasser, OSB  
 _Fundamentals of the Faith_, Peter Kreeft  
