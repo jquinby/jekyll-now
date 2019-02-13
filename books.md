@@ -20,10 +20,11 @@ Listening to Rabbi Lord Jonathan Sacks' [2013 Erasmus Lecture](https://www.first
 This list is updated as I finish things and add to the incoming queue.
 
 In progress:  
+_Essays on Ethics: A Weekly Reading of the Jewish Bible_, Rabbi Jonathan Sacks  
 _Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
 
 On Deck:  
-_Essays on Ethics: A Weekly Reading of the Jewish Bible_, Rabbi Jonathan Sacks  
+TBD  
 
 ---
 Some things I'm using for RCIA (changes stochastically):  
