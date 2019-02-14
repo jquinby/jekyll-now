@@ -13,8 +13,8 @@ So recently I took a deep dive into the OT and found myself consulting one
 Jewish source after another in an attempt to better understand the text and its
 meaning. One thing led to another and I ended up starting _Essays on Ethics: A
 Weekly Reading of the Jewish Bible_ by Rabbi Jonathan Sacks. I've been a fan of
-his for some time, ever since hearing a lecture he gave in New York several
-years back on the subject of creative minorities. 
+his for some time, ever since hearing [a lecture he gave in New York several
+years back on the subject of creative minorities](http://rabbisacks.org/erasmus-lecture-creative-minorities/). 
 
 I'm about 2/3 of the way through the book, and I'm reading it straight
 through. The chapters, though, are meant to be read as companion pieces to the
@@ -34,6 +34,6 @@ evil. For the first time, religion was ethicised. God cares about justice,
 compassion, faithfulness, loving-kindness, the dignity of the individual, and
 the sanctity of life.
 
-The _parsha_ are explored like this with a particular focus on the ethical
+The _parsha_ are explored with a particular focus on the ethical
 dimensions: what is going on here, what is revealed about God, and what do we do
-now, and so on. There is wisdom here for anyone to read. Highly recommended.
+now, and so on. There is wisdom here for anyone. Highly recommended.
