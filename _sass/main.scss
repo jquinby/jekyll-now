@@ -10,7 +10,7 @@ html {
 }
 body {
   font-size: 15px;
-  line-height: 20px;
+  line-height: 18px;
   font-weight: normal;
   font-style: normal;
 /*  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
@@ -18,6 +18,7 @@ body {
   color: #333333;
   padding: 20px;
   margin: 0;
+  margin-botton: 18px;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   @media (min-width: 992px) {
@@ -158,9 +159,12 @@ ul,
 ol {
   margin: 40px 0;
   padding-left: 50px;
+  line-height: 18px;
+  
   li {
     word-wrap: break-word;
   }
+
   img {
     margin: 40px 0;
     border-radius: 5px;

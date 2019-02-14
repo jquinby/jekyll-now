@@ -13,7 +13,7 @@ I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If 
 Current reading activity is as follows.
 
 In progress:  
-_Essays on Ethics: A Weekly Reading of the Jewish Bible_, Rabbi Jonathan Sacks  
+_Essays on Ethics_, Rabbi Jonathan Sacks  
 _Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
 
 On Deck:  
