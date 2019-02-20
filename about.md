@@ -16,7 +16,8 @@ _Essays on Ethics_, Rabbi Jonathan Sacks
 _Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
 
 On Deck:  
-TBD  
+_The Spiritual Life: Eight Essential Titles_ by Henri Nouwen  
+_The Genesee Diary_, Henri Nouwen
 
 ---
 Some things I'm using for RCIA:  
