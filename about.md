@@ -12,12 +12,10 @@ I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If 
 Current reading activity is as follows.
 
 In progress:  
-_Essays on Ethics_, Rabbi Jonathan Sacks  
-_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  
+_The Genesee Diary_, Henri Nouwen
 
 On Deck:  
 _The Spiritual Life: Eight Essential Titles_ by Henri Nouwen  
-_The Genesee Diary_, Henri Nouwen
 
 ---
 Some things I'm using for RCIA:  
@@ -32,6 +30,8 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_Essays on Ethics_, Rabbi Jonathan Sacks  
+_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  (about half)
 _Heaven: The Heart's Deepest Longing_, Peter Kreeft  
 _The Weight of Glory_, C.S. Lewis  
 _Till We Have Faces_, C.S. Lewis  
