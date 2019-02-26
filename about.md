@@ -15,7 +15,8 @@ In progress:
 _The Genesee Diary_, Henri Nouwen
 
 On Deck:  
-_The Spiritual Life: Eight Essential Titles_ by Henri Nouwen  
+_The Spiritual Life: Eight Essential Titles_, Henri Nouwen  
+_The Lonely Man of Faith_, Joseph Soloveitchik
 
 ---
 Some things I'm using for RCIA:  
