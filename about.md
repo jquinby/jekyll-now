@@ -3,6 +3,10 @@ layout: page
 title: scribblings &c
 permalink: /about/
 ---
+>Faciendi plures libros nullus est finis;  
+frequensque meditatio, carnis afflictio est. - Ecc 12:12
+
+
 Exactly as described above.
 
 You are notified in advance that I blog chiefly to organize my thoughts around books that I’m reading. Semi-regular writing is a way of holding myself accountable to the material. This is my polite way of saying that the bulk of the material on this site has an intended audience of precisely one. Well, maybe two. In other words, there's going to be very little here that's work-related.
@@ -12,11 +16,10 @@ I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If 
 Current reading activity is as follows.
 
 In progress:  
-_The Genesee Diary_, Henri Nouwen
+_The Spiritual Life: Eight Essential Titles_, Henri Nouwen  
 
 On Deck:  
-_The Spiritual Life: Eight Essential Titles_, Henri Nouwen  
-_The Lonely Man of Faith_, Joseph Soloveitchik
+TBD  
 
 ---
 Some things I'm using for RCIA:  
@@ -31,6 +34,8 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
+_The Lonely Man of Faith_, Joseph Soloveitchik
+_The Genesee Diary_, Henri Nouwen
 _Essays on Ethics_, Rabbi Jonathan Sacks  
 _Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  (about half)
 _Heaven: The Heart's Deepest Longing_, Peter Kreeft  
