@@ -34,8 +34,8 @@ _Catechism of the Catholic Church_
 ---
 Completed, most recent at the top:  
 
-_The Lonely Man of Faith_, Joseph Soloveitchik
-_The Genesee Diary_, Henri Nouwen
+_The Lonely Man of Faith_, Joseph Soloveitchik  
+_The Genesee Diary_, Henri Nouwen  
 _Essays on Ethics_, Rabbi Jonathan Sacks  
 _Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  (about half)
 _Heaven: The Heart's Deepest Longing_, Peter Kreeft  
