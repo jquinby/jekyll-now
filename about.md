@@ -3,8 +3,7 @@ layout: page
 title: scribblings &c
 permalink: /about/
 ---
->Faciendi plures libros nullus est finis;  
-frequensque meditatio, carnis afflictio est.  
+>Faciendi plures libros nullus est finis; frequensque meditatio, carnis afflictio est.  
 --- Ecc 12:12
 
 
