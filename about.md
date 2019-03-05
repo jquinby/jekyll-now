@@ -30,6 +30,8 @@ _One, Holy, Catholic, And Apostolic_, Kenneth Whitehead
 _The Catholic Sourcebook_, Fr. Peter Klein  
 _The Spirit of the Liturgy_, Cardinal Joseph Ratzinger (Pope Benedict XVI)  
 _Catechism of the Catholic Church_  
+_This Is Our Church: A History of Catholicism_, Michael Pennock  
+_Pilgrim Church_, William Bausch  
 
 ---
 Completed, most recent at the top:  
