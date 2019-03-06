@@ -24,8 +24,8 @@ second. Lacking any immediate utility, transcendent questions are left unasked,
 or worst, asked and  answered with more technology.
 
 >Let me diagnose the situation in a few terse sentences. Contemporary Adam the
-first, extremely succesful in his cosmic-majestic enterprise, refuses to pay
-earnest heed to the duality in man and tries the deny the undenaible, that
+first, extremely successful in his cosmic-majestic enterprise, refuses to pay
+earnest heed to the duality in man and tries the deny the undeniable, that
 another Adam exists beside, or rather, in him. By rejecting Adam the second,
 contemporary man, _eo ipso_, dismisses the covenantal faith community as
 something superfluous and obsolete. To clear up any misunderstanding on the
