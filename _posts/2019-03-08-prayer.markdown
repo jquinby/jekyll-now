@@ -1,0 +1,54 @@
+---
+layout: post
+title: A bit on prayer
+---
+
+Today's Office of Readings included a homily from St. John Chrystostom, bishop: 
+
+>Our spirit should be quick to reach out toward God, not only when it is engaged
+meditation; at other times also, when it is carrying out its duties, caring for
+the needy, performing works of charity, giving generously in the service of
+others, our spirit should long for God and call him to mind, so that these works
+may be seasoned with the salt of God's love, and so make a palatable offering to
+the Lord of the universe. Throughout the whole of our lives we may enjoy the
+benefit that comes from prayer if we devote a great deal of time to it.  
+Prayer is the light of the spirit, true knowledge of God, mediating between God
+and man.
+
+Henri Nouwen writes a great deal about prayer. I'm making my way through a
+collection of eight of his books. I thought _The Genesee Diary_ was wonderful
+and I recommend it to anyone who's curious about either Nouwen or the ins and
+outs of life in a Trappist monastery. The homily above finds loud echoes in the
+Little Way of St. Therese: do small things with great love, and you turn them
+into prayer. The larger Nouwen collection is also good, though substantial parts
+of the books so far seem to be written for an audience of priests and those who
+form them. I just started _¡Gracias!_ - another diary, this time of his time in
+South America.
+
+For Lent, I've left all social media behind. Wherever possible, I'm trying to
+leave the graphical Internet behind as well. I did this last year, too, and
+found the text-only web lends itself to a couple of good things. First, it's a
+heck of a lot faster. I already filter our surfing with a pi-hole and run uBlock
+Origin in all of my browsers as an extra layer. But limiting the web to
+text-only browsers completely...well, speed is on a whole new level. There's no
+javascript support, so most of the websites you're likely to use won't work
+quite right, or even render at all. Even so, I've found lightweight or text-only
+versions of just about everything I need: weather, news, research, and so on. I
+can read my mail with mutt, and there's even a CLI twitter client which works
+pretty well, though I'm not using it. I do have to emerge from 1989 for work,
+though, but otherwise my main setup is retro-tacular. I already use vim for all
+of my editing needs, and irc is just as textual as it's ever been. Emojis work
+even in the terminal. 
+
+In addition to being faster, I find it much easier to walk away from, which is
+important, since another Lenten focus for me has been to spend less free time in
+front of screens and more engaged in study, prayer, and family time. The online
+world is a constant visual assault. Strip everything back to elemental text and
+you really get a feel for just how bad it is.
+
+Finally, it's a nice bit of nostalgia. Folks my age and older still have the pre-Internet
+world in their living memory, and the early days looked just like this. So I'll
+allow that maybe this is just a lot of old-geezer-wheezing. But...it really is
+faster and easier to leave. I mean, I'm not even kidding: I've seen one or two
+articles proposing the resurrection of _gopher_, and if you don't know what that
+means, then it's probably time. The sooner the better, I say.
