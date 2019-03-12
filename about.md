@@ -16,7 +16,8 @@ I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If 
 Current reading activity is as follows.
 
 In progress:  
-_The Spiritual Life: Eight Essential Titles_, Henri Nouwen  
+_Jesus of Nazareth_, Pope Benedict XVI  
+_The Culture Code_, Daniel Coyle  
 
 On Deck:  
 TBD  
@@ -36,6 +37,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_The Spiritual Life: Eight Essential Titles_, Henri Nouwen  (mostly complete)  
 _The Lonely Man of Faith_, Joseph Soloveitchik  
 _The Genesee Diary_, Henri Nouwen  
 _Essays on Ethics_, Rabbi Jonathan Sacks  
