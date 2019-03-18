@@ -17,6 +17,7 @@ Current reading activity is as follows.
 
 In progress:  
 _Jesus of Nazareth_, Pope Benedict XVI  
+_Symbol or Substance?: A Dialogue on the Eucharist_, Peter Kreeft  
 _The Culture Code_, Daniel Coyle  
 
 On Deck:  
