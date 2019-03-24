@@ -6,7 +6,6 @@ permalink: /about/
 >_Faciendi plures libros nullus est finis; frequensque meditatio, carnis afflictio est._  
 --- Ecc 12:12
 
-
 Exactly as described above.
 
 You are notified in advance that I blog chiefly to organize my thoughts around books that I’m reading. Semi-regular writing is a way of holding myself accountable to the material. This is my polite way of saying that the bulk of the material on this site has an intended audience of precisely one. Well, maybe two. In other words, there's going to be very little here that's work-related.
@@ -17,7 +16,6 @@ Current reading activity is as follows.
 
 In progress:  
 _Jesus of Nazareth_, Pope Benedict XVI  
-_Symbol or Substance?: A Dialogue on the Eucharist_, Peter Kreeft  
 _The Culture Code_, Daniel Coyle  
 
 On Deck:  
@@ -38,6 +36,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_Symbol or Substance?: A Dialogue on the Eucharist_, Peter Kreeft  
 _The Spiritual Life: Eight Essential Titles_, Henri Nouwen  (mostly complete)  
 _The Lonely Man of Faith_, Joseph Soloveitchik  
 _The Genesee Diary_, Henri Nouwen  
