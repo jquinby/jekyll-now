@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Symbol or Substance?
+title: The Beatitudes
 ---
 
 _Jesus of Nazareth_, a personal meditation by Pope Benedict XVI on the person of
@@ -36,7 +36,9 @@ This turned out to be really good advice, for where the Decalogue is pretty
 cut-and-dried ("Do not kill," even allowing for all of those things that stop
 short of actual murder but nevertheless gravely harm the spirit of another), the
 Beatitudes force the reader to put himself into the place of, for example, a
-peacemaker. What would the blessed peacemaker look like? How would he react in
+peacemaker. 
+
+What would the blessed peacemaker look like? How would he react in
 this particular situation, or how would he respond conflicts large and small?
 And, then: was this me? Did I live this out? What action, stillness, word, or
 silence did I _omit_, thus falling short? We first have to dare to imagine what
@@ -44,4 +46,10 @@ the blessed look like. Well not _entirely_ imagine - the example stands before
 us in the person of Christ. We have to imagine a hunger and thirst for
 righteousness, see ourselves hungering and thirsting for the righteousness of
 the kingdom and all that entails. Then and only then are we animated to act and
-speak, or more importantly, remain still and silent. 
+speak, or more importantly, remain still and silent. With God's grace, we will
+be the peacemakers, poor in spirit, and meek He described.
+
+_Jesus of Nazareth_ extensively quotes Jacob Neusner's _A Rabbi Talks with
+Jesus_, which will probably wind up on my to-read list shortly. It seems to have
+been favorably reviewed by Rabbi Jonathan Sacks and looks to be an excellent
+follow-on to Sacks and Soloveitchik. 
