@@ -10,7 +10,7 @@ Exactly as described above.
 
 You are notified in advance that I blog chiefly to organize my thoughts around books that I’m reading. Semi-regular writing is a way of holding myself accountable to the material. This is my polite way of saying that the bulk of the material on this site has an intended audience of precisely one. Well, maybe two. In other words, there's going to be very little here that's work-related.
 
-I am on [Twitter](https://twitter.com/jquinby), for whatever that’s worth. If you're a ham, you can find out a bit more about my station at [QRZ](https://www.qrz.com/db/AA4JQ). I also hang around [/r/amateurradio](https://www.reddit.com/r/amateurradio) and in its unofficial IRC channel (#redditnet on Geekshed). Stop in if you have any questions about amateur radio or just about anything else. It's a pretty friendly bunch.
+I am on [Twitter](https://twitter.com/jquinby), but probably not for much longer. If you're a ham, you can find out a bit more about my station at [QRZ](https://www.qrz.com/db/AA4JQ). I also hang around [/r/amateurradio](https://www.reddit.com/r/amateurradio) and in its unofficial IRC channel (#redditnet on Geekshed). Stop in if you have any questions about amateur radio or just about anything else. It's a pretty friendly bunch.
 
 Current reading activity is as follows.
 
