@@ -2,7 +2,7 @@
 layout: post
 title: Putting the Amateur...
 ---
-...in "Amateur Radio." After a couple decades of putting it off, I got my Tech and General licenses this past summer. My callsign is KM4SYN, and my QTH is Murfreesboro, TN, grid location EM65.
+...in "Amateur Radio." After a couple decades of putting it off, I got my Tech and General licenses this past summer.
 
 Current gear:
 
@@ -20,7 +20,7 @@ The FT-60R goes with me when I fly. I also use it with the Elk for working satel
 
 Satellites are a ball to work, by the way. I'm just a wimp when it comes to the cold. My first attempt to hit the UHF digipeater on the ISS made it into one of [KG4AKV's Space Comm videos](http://forums.qrz.com/index.php?threads/video-new-uhf-iss-digipeater.547971/).
 
-The TM-V71A resides in my office most of the time, though my truck is wired up appropriately for a mobile installation as well (hence the mobile Diamond antenna). When it's set up at home, the Kenwood feeds an Ed Fong Dual-band J-pole in the attic. I run an [RF->IS iGate](http://aprs.fi/info/a/KM4SYN) most of the time via Xastir on one band; the other VFO scans local repeaters. I took the NWS Skywarn classes, then joined the local club and ARES groups to help out during the bad weather (read: tornado) season.
+The TM-V71A resides in my office most of the time, though my truck is wired up appropriately for a mobile installation as well (hence the mobile Diamond antenna). When it's set up at home, the Kenwood feeds an Ed Fong Dual-band J-pole in the attic. I run an RF->IS iGate most of the time via Xastir on one band; the other VFO scans local repeaters. I took the NWS Skywarn classes, then joined the local club and ARES groups to help out during the bad weather (read: tornado) season.
 
 I play around a (very) little bit with SDR in Linux, generally for decoding digital stuff on FM.
 
