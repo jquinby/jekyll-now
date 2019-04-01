@@ -1,0 +1,33 @@
+---
+layout: post
+title: Origen   
+---
+
+The Office of Readings today included a portion of a homily by Origen on
+Leviticus. At Mass yesterday, the Gospel for the second scrutiny was read: the
+story of the man born blind. Eyes, seeing, and light are - not surprisingly -
+taking center stage as we build up to Easter. Eyes have been on my mind lately
+quite a bit as well: I'm dealing with a pernicious and annoying problem in one
+eye that has sorely tested my wherewithal for patient suffering.
+
+>There is a deeper meaning in the fact that the high  priest sprinkles the blood towards the east. Atonement comes to you  from   
+the east. From the east comes the one whose name is Dayspring,  he who is mediator between God and men. You are invited then  to   
+look always to the east: it  is there that the sun of  righteousness rises for you, it is  there that the light is always  being   
+born for you. You are never to walk in darkness; the great and final day is not to enfold you in darkness. Do not let the  night   
+and mist of ignorance steal upon you. So that you may always enjoy the light of knowledge, keep always in the daylight of faith,   
+hold fast always to the light of love and peace.
+
+Added to my reading stack: _Structure and Interpretation of Computer Programs_,
+thanks to slowly growing interest in Lisp. I've also been looking at _Common Lisp: A 
+Gentle Introduction to Symbolic Computation_ and working through a few
+tutorials. I am not likely to make a mid-career change to Lisp developer, but I
+am thoroughly enjoying _thinking_ about computers and programs a bit
+differently. Quite a bit differently, actually. Just as a purely mental exercise
+it's been worth the effort so far. If I could just get used to emacs keybindings
+now...
+
+In other, semi-related tech news: I tweaked my at-home Linux setup to use the i3
+tiling window manager. So far so good. Having to break a few habits related to
+xfce's workspace switching, but otherwise I think it's going well. Some radio
+apps aren't particularly well-suited to tiling, or I haven't figured out how to
+make them so. There's always _float_ mode, I suppose.
