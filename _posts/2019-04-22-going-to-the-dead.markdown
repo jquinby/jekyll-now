@@ -56,3 +56,15 @@ On the strength of [Alan Jacobs'
 recommendation](https://www.theamericanconservative.com/jacobs/on-black-lamb-and-grey-falcon/), I'm adding _Black Lamb and Grey
 Falcon_ by Rebecca West to the book pile. He mentioned it again recently in a
 [blog post, too](https://blog.ayjay.org/lord-make-me-an-idiot/). 
+
+Finally, a random nit: I wish authors would provide translations of
+foreign-language quotes in the footnotes. But, comes the response, the intended
+audience of this book will certainly be fluent in patristic Greek. But since the
+author already knows what it means, why not throw a crib into the notes? And if
+not the author, then perhaps the editor? Google Translate isn't bad most of the
+time but I'm damned if I even get the gist of _an eis hadou katiēi, sunkatelthe,
+gnōthi kai ta ekeise tou Christou mystēria_, which is auto-translated as
+"if he walks in a bowl, he is conscious, knowing, and consuming the mysteries of
+Christ." 
+
+"If he walks in a bowl" has me scratching my head a bit for sure.
