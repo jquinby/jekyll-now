@@ -27,7 +27,7 @@ it well under the three allotted years.
 I picked up _Mysterium Paschale_ again over the weekend to revisit von
 Balthasar's exploration of Holy Saturday.
 
-bq.The more eloquently the Gospels describe the passion of the living Jesus, his
+>The more eloquently the Gospels describe the passion of the living Jesus, his
 death and burial, the more striking is their entirely understandable silence
 when it comes to the time in between his placing in the grave and the event of
 the Resurrection. We are grateful to them for this. Death calls for this
