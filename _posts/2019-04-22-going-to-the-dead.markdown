@@ -1,6 +1,6 @@
 ---
-layout: Going to the Dead
-title: 
+layout: post
+title: Going to the Dead
 ---
 
 Having pruned my Twitter list back to what I consider the bare essentials
