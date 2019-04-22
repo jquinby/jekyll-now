@@ -13,8 +13,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Jesus of Nazareth_, Pope Benedict XVI  
-_The Culture Code_, Daniel Coyle  
+_Mysterium Paschale_, revisiting
 
 On Deck:  
 TBD  
@@ -34,6 +33,8 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_Jesus of Nazareth_, Pope Benedict XVI  
+_The Culture Code_, Daniel Coyle  
 _Symbol or Substance?: A Dialogue on the Eucharist_, Peter Kreeft  
 _The Spiritual Life: Eight Essential Titles_, Henri Nouwen  (mostly complete)  
 _The Lonely Man of Faith_, Joseph Soloveitchik  
