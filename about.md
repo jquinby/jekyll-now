@@ -13,7 +13,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Mysterium Paschale_, revisiting
+_Mysterium Paschale_, revisiting  
 _The Wisdom of the Desert Fathers_, revisiting  
 
 On Deck:  
