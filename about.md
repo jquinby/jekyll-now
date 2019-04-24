@@ -14,9 +14,11 @@ Current reading activity is as follows.
 
 In progress:  
 _Mysterium Paschale_, revisiting
+_The Wisdom of the Desert Fathers_, revisiting  
 
 On Deck:  
-TBD  
+_Black Lamb and Grey Falcon_, Rebecca West
+_A Rabbi Talks with Jesus_, Jacob Neusner  
 
 ---
 Some things I'm using for RCIA:  
