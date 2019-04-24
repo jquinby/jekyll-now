@@ -17,7 +17,7 @@ _Mysterium Paschale_, revisiting
 _The Wisdom of the Desert Fathers_, revisiting  
 
 On Deck:  
-_Black Lamb and Grey Falcon_, Rebecca West
+_Black Lamb and Grey Falcon_, Rebecca West  
 _A Rabbi Talks with Jesus_, Jacob Neusner  
 
 ---
