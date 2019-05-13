@@ -13,11 +13,10 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_A Rabbi Talks with Jesus_, Jacob Neusner  
-_The Wisdom of the Desert Fathers_, revisiting  
+_Black Lamb and Grey Falcon_, Rebecca West  
 
 On Deck:  
-_Black Lamb and Grey Falcon_, Rebecca West  
+TBD  
 
 ---
 Some things I'm using for RCIA:  
@@ -34,6 +33,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_A Rabbi Talks with Jesus_, Jacob Neusner  
 _Jesus of Nazareth_, Pope Benedict XVI  
 _The Culture Code_, Daniel Coyle  
 _Symbol or Substance?: A Dialogue on the Eucharist_, Peter Kreeft  
