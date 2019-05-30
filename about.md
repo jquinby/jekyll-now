@@ -14,6 +14,7 @@ Current reading activity is as follows.
 
 In progress:  
 _Black Lamb and Grey Falcon_, Rebecca West  
+_The Authority of Mystery_, ed. Scott Hahn  
 
 On Deck:  
 TBD  
