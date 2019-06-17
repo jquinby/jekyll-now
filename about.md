@@ -15,7 +15,6 @@ Current reading activity is as follows.
 In progress:  
 _Black Lamb and Grey Falcon_, Rebecca West  
 _The Authority of Mystery_, ed. Scott Hahn  
-_The Conservative Sensibility_, George Will  
 
 On Deck:  
 TBD  
@@ -35,6 +34,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_The Conservative Sensibility_, George Will  
 _A Rabbi Talks with Jesus_, Jacob Neusner  
 _Jesus of Nazareth_, Pope Benedict XVI  
 _The Culture Code_, Daniel Coyle  
