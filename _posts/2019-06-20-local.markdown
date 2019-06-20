@@ -1,0 +1,43 @@
+---
+layout: post
+title: Be Local
+---
+I've kicked Twitter to the curb for the most part. I deactivated my main
+presence there and set up a new one which follows exactly 30 accounts in my
+local area which focus on severe weather, emergency response, or public
+information on the same. When bad weather rolls in (as it did last night and
+will again this weekend), I'll turn it on to read (and contribute) weather
+spotting information as needed. The only other thing I was using it for was
+DM'ing my brother, and we've since moved to SMS. To the curb, then. Or halfway
+to the curb anyhow. The mobile app still has way too many sponsored posts. If
+I'm sitting at my desk, though, I can use
+[oystyyer](https://github.com/oysttyer/oysttyer) to keep an ad-free, 100% text
+experience. 
+
+As for the rest: I'm trying (with variable success) to limit my Reddit intake to
+the amateur radio-related sub(s). I switch between newsbeuter and liferea for
+RSS feed-reading. I use Firefox as my main browser, and have installed uBlock
+Origin and Privacy Badger. For many things, elinks still works fine.  I also run 
+a pi-hole on our local network.
+
+Much of this -- including renewing subscriptions to the two (!) local newspapers
+-- has been part of a slowly growing focus on the _local_; that which is still
+arguably within our ken. I was for a long time "engaged" with way too many
+things. I know many people who still are, but can't tell you what the city
+council decided last night about the big road projects or annexations, both of
+which have arguably more immediate impact on day-to-day life than a policy fight
+in Washington. This goes equally for church politics, by the way. The latest
+pronouncements in Rome are interesting and certainly deserving of attention, but
+certainly not _more_ attention than the goings-on at our local parish (or
+diocese). This sounds like a suggestion for complete withdrawal from issues
+beyond the county line. I'm not sure that's possible, or even desirable.
+Recalibrating how much attention is paid or calories burnt in response _is_
+possible and worth a go.
+
+And this is all very Benedictine - the focus on the particular people in the
+particular place you find yourself. Even beyond the walls of the monastery, we
+can strive for
+[_stabilio_](https://blog.adw.org/2012/07/a-reflection-on-the-benedictine-vow-of-stability/).
+In the face of the "engagement" colossus of the connected "social" world, we can't 
+focus long enough on our own feet. The world longs to see us uprooted -
+physically, mentally, spiritually. 
