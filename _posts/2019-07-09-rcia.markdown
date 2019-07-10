@@ -2,7 +2,7 @@
 layout: post
 title: RCIA
 ---
-bq. WINE comes in at the mouth
+> WINE comes in at the mouth
 And love comes in at the eye;
 That's all we shall know for truth
 Before we grow old and die.
