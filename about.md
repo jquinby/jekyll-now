@@ -3,7 +3,7 @@ layout: page
 title: scribblings &c
 permalink: /about/
 ---
->_Faciendi plures libros nullus est finis; frequensque meditatio, carnis afflictio est._  
+>_As to more than these, my son, beware. Of the making of many books there is no end, and in much study there is weariness for the flesh._  
 --- Ecc 12:12
 
 Exactly as described above.
