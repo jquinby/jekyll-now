@@ -16,7 +16,8 @@ In progress:
 _Black Lamb and Grey Falcon_, Rebecca West  
 
 On Deck:  
-TBD  
+_From Shadows to Reality: Studies in the Biblical Typology of the Fathers_, Jean Daniélou, SJ  
+_Ideas Have Consequences_, Richard Weaver  
 
 ---
 Some things I'm using for RCIA:  
