@@ -44,7 +44,7 @@ _The Spiritual Life: Eight Essential Titles_, Henri Nouwen  (mostly complete)
 _The Lonely Man of Faith_, Joseph Soloveitchik  
 _The Genesee Diary_, Henri Nouwen  
 _Essays on Ethics_, Rabbi Jonathan Sacks  
-_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  (about half)
+_Vatican II: The Essential Texts_, ed. Norman Tanner, SJ  (about half)  
 _Heaven: The Heart's Deepest Longing_, Peter Kreeft  
 _The Weight of Glory_, C.S. Lewis  
 _Till We Have Faces_, C.S. Lewis  
