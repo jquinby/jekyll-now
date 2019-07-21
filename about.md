@@ -13,10 +13,10 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_From Shadows to Reality: Studies in the Biblical Typology of the Fathers_, Jean Daniélou, SJ  
+_Ideas Have Consequences_, Richard Weaver  
 
 On Deck:  
-_Ideas Have Consequences_, Richard Weaver  
+TBD  
 
 ---
 Some things I'm using for RCIA:  
@@ -33,6 +33,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_From Shadows to Reality: Studies in the Biblical Typology of the Fathers_, Jean Daniélou, SJ  
 _Black Lamb and Grey Falcon_, Rebecca West  
 _The Authority of Mystery_, ed. Scott Hahn  
 _The Conservative Sensibility_, George Will  
