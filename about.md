@@ -16,7 +16,7 @@ In progress:
 _Ideas Have Consequences_, Richard Weaver  
 
 On Deck:  
-TBD  
+TBD, still noodling
 
 ---
 Some things I'm using for RCIA:  
