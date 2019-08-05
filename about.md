@@ -13,7 +13,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Ideas Have Consequences_, Richard Weaver  
+_The Metamorphoses of Ovid_, trans. Alan Mandelbaum
 
 On Deck:  
 TBD
@@ -33,6 +33,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_Ideas Have Consequences_, Richard Weaver  
 _From Shadows to Reality: Studies in the Biblical Typology of the Fathers_, Jean Daniélou, SJ  
 _Black Lamb and Grey Falcon_, Rebecca West  
 _The Authority of Mystery_, ed. Scott Hahn  
