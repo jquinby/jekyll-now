@@ -33,6 +33,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_Maus_, Art Spiegelman  
 _Ideas Have Consequences_, Richard Weaver  
 _From Shadows to Reality: Studies in the Biblical Typology of the Fathers_, Jean Daniélou, SJ  
 _Black Lamb and Grey Falcon_, Rebecca West  
