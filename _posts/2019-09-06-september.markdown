@@ -6,7 +6,7 @@ title: September
 sits on trees and ours down shrill song  
 from frenziedly quivering wings in the toilsome summer  
 then goats are fatter than ever and wine is at its best  
--- Hesiod
+--- Hesiod
 
 
 We're in that weird time of the year where the evenings are beautifully cool
