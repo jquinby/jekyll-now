@@ -13,7 +13,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_The Metamorphoses of Ovid_, trans. Alan Mandelbaum
+Re-reading Pieper  
 
 On Deck:  
 TBD
@@ -33,6 +33,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_The Metamorphoses of Ovid_, trans. Alan Mandelbaum
 _Maus_, Art Spiegelman  
 _Ideas Have Consequences_, Richard Weaver  
 _From Shadows to Reality: Studies in the Biblical Typology of the Fathers_, Jean Daniélou, SJ  
