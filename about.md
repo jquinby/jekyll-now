@@ -34,7 +34,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
-_Borne_, Jeff VanderMeer
+_Borne_, Jeff VanderMeer  
 _The Metamorphoses of Ovid_, trans. Alan Mandelbaum  
 _Maus_, Art Spiegelman  
 _Ideas Have Consequences_, Richard Weaver  
