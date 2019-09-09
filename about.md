@@ -13,6 +13,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
+_The Confessions_, St. Augustine  
 Re-reading Pieper  
 
 On Deck:  
@@ -33,6 +34,7 @@ _Pilgrim Church_, William Bausch
 ---
 Completed, most recent at the top:  
 
+_Borne_, Jeff VanderMeer
 _The Metamorphoses of Ovid_, trans. Alan Mandelbaum
 _Maus_, Art Spiegelman  
 _Ideas Have Consequences_, Richard Weaver  
