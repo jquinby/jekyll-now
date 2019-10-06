@@ -1,0 +1,32 @@
+---
+layout: post
+title: Thoughts
+---
+
+Our technologies have specific ends to which they are ordered. What are they?
+Are there multiple ends? Those ends for which we use them, but a deeper (or
+higher?) level, their actual ends, as intended by their creators?
+
+Technology doesn't exist for its own sake. As there was a creator, there is also
+a _telos_.
+
+In the sphere of unlimited, instantaneous global communication and attention,
+how have our views of ourselves (and by extension, others) been changed for the
+better or worse? How does the TOB inform this thinking? I'm thinking in
+particular of authentic, in-person communications and our relationships with
+enfleshed others.
+
+What if Alison Parrish's thoughts on a new hacker ethic were to obtain
+completely? What if they were reinforced by the thoughts in _Weapons of Math
+Destruction_, in particular, the growing recognition that humans are not nearly
+as good at algorithms as we think we are? And that this recognition may not be
+keeping pace with their widespread implementation? And that this widespread
+implementation has real, grave impacts? If fully internalized by technicians,
+how would the technology landscape be different?
+
+If we count the cost, who pays the steepest prices? What does a _preferential
+option for the poor_ look like in a globally connected world?
+
+As the world prior to the Internet continues to recede, and the second generation to swim
+completely in it grows up, what new criticism will be levied? As a cohort, where
+will they stand fast? 
