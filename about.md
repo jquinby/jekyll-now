@@ -13,9 +13,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Awaiting the King: Reforming Public Theology_, James Smith  
-_The Confessions_, St. Augustine  
-Re-reading Pieper  
+_Male and Female He Made Them: A Theology of the Body_, Pope John Paul II  
 
 On Deck:  
 TBD
