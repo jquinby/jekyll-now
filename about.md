@@ -1,8 +1,3 @@
---
-layout: page
-title: scribblings etc
---
-
 >_As to more than these, my son, beware. Of the making of many books there is no end, and in much study there is weariness for the flesh._  
 --- Ecc 12:12
 
