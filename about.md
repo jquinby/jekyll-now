@@ -1,6 +1,7 @@
 --
 layout: page
-title: scribblings &c
+title: scribblings etc
+permalink: /about/
 --
 
 >_As to more than these, my son, beware. Of the making of many books there is no end, and in much study there is weariness for the flesh._  
