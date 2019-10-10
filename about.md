@@ -16,7 +16,8 @@ In progress:
 _Male and Female He Made Them: A Theology of the Body_, Pope John Paul II  
 
 On Deck:  
-TBD
+_Making Small Groups Work_, Henry Cloud  
+_How to Lead Small Groups_, Neal McBride  
 
 ---
 Some things I'm using for RCIA:  
@@ -25,10 +26,8 @@ _With Christ Through The Year: The Liturgical Year in Word and Symbols_, Fr. Ber
 _Fundamentals of the Faith_, Peter Kreeft  
 _One, Holy, Catholic, And Apostolic_, Kenneth Whitehead  
 _The Catholic Sourcebook_, Fr. Peter Klein  
-_The Spirit of the Liturgy_, Cardinal Joseph Ratzinger (Pope Benedict XVI)  
 _Catechism of the Catholic Church_  
-_This Is Our Church: A History of Catholicism_, Michael Pennock  
-_Pilgrim Church_, William Bausch  
+_The Theology of the Body Explained_, Christopher West  
 
 ---
 Completed, most recent at the top:  
