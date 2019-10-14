@@ -15,7 +15,7 @@ _Making Small Groups Work_, Henry Cloud
 _How to Lead Small Groups_, Neal McBride  
 
 ---
-Here are bookss that I'm using these days as an RCIA catechist:
+Books I'm using these days as an RCIA Catechist:
 
 _With Christ Through The Year: The Liturgical Year in Word and Symbols_, Fr. Bernard Strasser, OSB  
 _Fundamentals of the Faith_, Peter Kreeft  
