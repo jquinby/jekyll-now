@@ -8,21 +8,23 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Male and Female He Made Them: A Theology of the Body_, Pope John Paul II  
+_Readings in Church History_, ed. Colman Barry OSB  
 
 On Deck:  
 _Making Small Groups Work_, Henry Cloud  
 _How to Lead Small Groups_, Neal McBride  
 
 ---
-Some things I'm using for RCIA:  
+Here are bookss that I'm using these days as an RCIA catechist:
 
 _With Christ Through The Year: The Liturgical Year in Word and Symbols_, Fr. Bernard Strasser, OSB  
 _Fundamentals of the Faith_, Peter Kreeft  
 _One, Holy, Catholic, And Apostolic_, Kenneth Whitehead  
 _The Catholic Sourcebook_, Fr. Peter Klein  
 _Catechism of the Catholic Church_  
+_Male and Female He Made Them: A Theology of the Body_, Pope John Paul II  
 _The Theology of the Body Explained_, Christopher West  
+_Readings in Church History_, ed. Colman Barry OSB  
 
 ---
 Completed, most recent at the top:  
