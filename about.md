@@ -8,11 +8,12 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Readings in Church History_, ed. Colman Barry OSB  
+_The Incarnate Lord_, Thomas Joseph White, OP  
+_Making Small Groups Work_, Henry Cloud  
 
 On Deck:  
-_Making Small Groups Work_, Henry Cloud  
-_How to Lead Small Groups_, Neal McBride  
+_The Spiritual Life_, Adolphe Tanqueray  
+
 
 ---
 Books I'm using these days as an RCIA Catechist:
@@ -29,6 +30,8 @@ _Readings in Church History_, ed. Colman Barry OSB
 ---
 Completed, most recent at the top:  
 
+_How to Lead Small Groups_, Neal McBride  
+_Readings in Church History_, ed. Colman Barry OSB  
 _Strange Bird_, Jeff VanderMeer  
 _Borne_, Jeff VanderMeer  
 _The Metamorphoses of Ovid_, trans. Alan Mandelbaum  
