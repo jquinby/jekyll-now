@@ -3,7 +3,7 @@ layout: post
 title: September
 ---
 >When the thistle blooms and the chirping cicada  
-sits on trees and ours down shrill song  
+sits on trees and pours down shrill song  
 from frenziedly quivering wings in the toilsome summer  
 then goats are fatter than ever and wine is at its best  
 --- Hesiod
