@@ -11,4 +11,5 @@ duties of state in view of pleasing God, this is likewise to love. Nay more,
 to recreate ourselves, to take our meals with the like intention is to love. 
 To serve our neighbor for God's sake is to love. Nothing then is easier, God's
 grace helping, than the constant exercise of divine love and through this, steady
-advance toward perfection.  --- Chapter 3, No. 350
+advance toward perfection.  
+--- Chapter 3, No. 350
