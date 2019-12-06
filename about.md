@@ -9,7 +9,8 @@ Current reading activity is as follows.
 
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
-_Making Small Groups Work_, Henry Cloud  
+_Blue at the Mizzen_, Patrick O'Brian  
+  
 
 On Deck:  
 Nothing for awhile. The Tanquerey book is big.
