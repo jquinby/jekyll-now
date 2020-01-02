@@ -12,8 +12,11 @@ _The Spiritual Life_, Adolphe Tanquerey
 _Blue at the Mizzen_, Patrick O'Brian  
   
 
-On Deck:  
-Nothing for awhile. The Tanquerey book is big.
+On Deck (in no particular order):  
+_Doors in the Walls of the World_, Peter Kreeft  
+_Gardening with the Native Plants of Tennessee_, Margie Hunter  
+_The Rule of Benedict_, Georg Holzherr, OSB  
+_The Golden Rhinoceros_, François-Xavier Fauvelle  
 
 ---
 Books I'm using these days as an RCIA Catechist:
