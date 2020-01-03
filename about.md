@@ -9,8 +9,6 @@ Current reading activity is as follows.
 
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
-_Blue at the Mizzen_, Patrick O'Brian  
-  
 
 On Deck (in no particular order):  
 _Doors in the Walls of the World_, Peter Kreeft  
@@ -33,6 +31,7 @@ _Readings in Church History_, ed. Colman Barry OSB
 ---
 Completed, most recent at the top:  
 
+_Blue at the Mizzen_, Patrick O'Brian  
 _The Incarnate Lord_, Thomas Joseph White, OP  
 _How to Lead Small Groups_, Neal McBride  
 _Readings in Church History_, ed. Colman Barry OSB  
