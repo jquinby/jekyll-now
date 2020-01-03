@@ -9,9 +9,10 @@ Current reading activity is as follows.
 
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
+_Doors in the Walls of the World_, Peter Kreeft  
+
 
 On Deck (in no particular order):  
-_Doors in the Walls of the World_, Peter Kreeft  
 _Gardening with the Native Plants of Tennessee_, Margie Hunter  
 _The Rule of Benedict_, Georg Holzherr, OSB  
 _The Golden Rhinoceros_, François-Xavier Fauvelle  
