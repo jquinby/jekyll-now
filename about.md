@@ -13,6 +13,7 @@ _Doors in the Walls of the World_, Peter Kreeft
 
 
 On Deck (in no particular order):  
+_The Noonday Devil_, Dom Jean-Charles Nault, OSB  
 _Gardening with the Native Plants of Tennessee_, Margie Hunter  
 _The Rule of Benedict_, Georg Holzherr, OSB  
 _The Golden Rhinoceros_, François-Xavier Fauvelle  
