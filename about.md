@@ -9,10 +9,10 @@ Current reading activity is as follows.
 
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
+_The Noonday Devil_, Dom Jean-Charles Nault, OSB  
 
 
 On Deck (in no particular order):  
-_The Noonday Devil_, Dom Jean-Charles Nault, OSB  
 _Gardening with the Native Plants of Tennessee_, Margie Hunter  
 _The Rule of Benedict_, Georg Holzherr, OSB  
 _The Golden Rhinoceros_, François-Xavier Fauvelle  
