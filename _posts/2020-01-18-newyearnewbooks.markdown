@@ -8,7 +8,7 @@ _Doors in the Walls of the World_ by Peter Kreeft, _The Golden Rhinoceros_ by
 François-Xavier Fauvelle, _The Rule of Benedict_ by Georg Holzherr OSB, and a
 guide to gardening with local Tennessee plants. I'm still slowly working my way
 through Tanquerey's _Spiritual Life_, which I'm liking very much. I used parts
-of it for a recent RCIA lesson on sin and temptationm, in particular the
+of it for a recent RCIA lesson on sin and temptation, in particular the
 explanations of the threefold concupiscence. I've just started the section on
 the capital sins - also very engaging stuff.
 
