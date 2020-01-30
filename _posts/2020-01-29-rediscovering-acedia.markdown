@@ -25,7 +25,7 @@ impossible. In some cases this was accompanied by torpor, in others, a sort of
 frantic business. As time passed, acedia sort of fell off the radar in favor of
 sloth, which took its place in the lists but calls to mind general laziness and
 losing something of its depth. St. Thomas Aquinas briefly wrote about it,
-describing it as a sin against the love of charity, and points to an ingenius
+describing it as a sin against the love of charity, and points to an ingenious
 remedy: The Incarnation itself! Go read it to see how. Ultimately, William of
 Ockham may have been responsible for acedia's place on the back-burner. By
 reducing events and actions to individual, separated occurrences, sundered from
@@ -33,7 +33,7 @@ a larger pattern or totality, the need to describe a broad tendency
 (like acedia) is diminished.
 
 Fortunately, acedia's made something of comeback in the popular consciousness.
-Unfortunately, it never realyl left us. _The Noonday Devil_ traces the notion of
+Unfortunately, it never really left us. _The Noonday Devil_ traces the notion of
 acedia through church history, starting with Evagrius and the others, through
 the middle ages, and into modernity. The Fathers were wise - the concept of
 acedia is no less relevant today than it was in a desert cell 1,600 years ago.

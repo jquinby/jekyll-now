@@ -31,4 +31,4 @@ combination of weariness, sadness, and lack of purposefulness. It robs a person
 of his capacity for joy and leaves him feeling empty, or void of meaning.
 
 _The Noonday Devil_ will be going with me next week as I head to a weekend men's
-retreat. 
+retreat.
