@@ -68,19 +68,19 @@ _An Essay in Aid of a Grammar of Assent_, John Henry Newman (halfway)
 _Mysterium Paschale_, Hans Urs Von Balthasar  
 _Temple and Contemplation: God’s Presence in the Cosmos, Church, and Human Heart_, Various  
 The original _Dune_ series, Frank Herbert  
-_The First Philosophers: The Presocratics and Sophists_, Robin Wakefield    
+_The First Philosophers: The Presocratics and Sophists_, Robin Wakefield  
 The _Southern Reach_ trilogy, Jeff VanderMeer  
 _Compendium on the Diaconate_, USSCB, ed. Enzo Petrolino  
 _Theology of the Body Explained_,  Christopher West  (mostly completed)  
 _The Old Testament in the Light of the New_, Stephen B. Clark  
 _Conjectures of Guilty Bystander_, Thomas Merton  
 _The Bible and The Liturgy_, Jean Daniélou, SJ  
-_The Wisdom of the Desert_, Thomas Merton    
+_The Wisdom of the Desert_, Thomas Merton  
 _A Canticle for Leibowitz_, Walter Miller  
 _Human Life, Action and Ethics_, G.E.M. Anscombe  
 _Apologia Pro Vita Sua_, John Henry Newman  
 _Collected Short Stories_, Graham Greene  
-_The Spirit of the Liturgy_, Joseph Cardinal Ratzinger      
+_The Spirit of the Liturgy_, Joseph Cardinal Ratzinger  
 _Farenheit 451_, Ray Bradbury  
 _One, Holy, Catholic, and Apostolic_, Kenneth Whitehead (sections)  
 _Theology of the Body 101_ iTunes lecture series, Prof. Mary Stanford, Christendom College  
