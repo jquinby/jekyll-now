@@ -9,13 +9,10 @@ Current reading activity is as follows.
 
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
-_The Noonday Devil_, Dom Jean-Charles Nault, OSB  
-
-
-On Deck (in no particular order):  
-_Gardening with the Native Plants of Tennessee_, Margie Hunter  
-_The Rule of Benedict_, Georg Holzherr, OSB  
 _The Golden Rhinoceros_, François-Xavier Fauvelle  
+
+On Deck:  
+_The Rule of Benedict_, Georg Holzherr, OSB  
 
 ---
 Books I'm using these days as an RCIA Catechist:
@@ -32,6 +29,8 @@ _Readings in Church History_, ed. Colman Barry OSB
 ---
 Completed, most recent at the top:  
 
+_Gardening with the Native Plants of Tennessee_, Margie Hunter  
+_The Noonday Devil_, Dom Jean-Charles Nault, OSB  
 _Doors in the Walls of the World_, Peter Kreeft  
 _Blue at the Mizzen_, Patrick O'Brian  
 _The Incarnate Lord_, Thomas Joseph White, OP  
