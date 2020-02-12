@@ -1,10 +1,11 @@
+# About this blog
+
 >_As to more than these, my son, beware. Of the making of many books there is no end, and in much study there is weariness for the flesh._  
 --- Ecc 12:12
 
 Exactly as described above. Scribblings.
 
 You are notified in advance that I blog chiefly to organize my thoughts around books that I’m reading. Semi-regular writing is a way of holding myself accountable to the material. This is my polite way of saying that the bulk of the material on this site has an intended audience of precisely one. Well, maybe two. In other words, there's going to be very little here that's work-related.
-
 Current reading activity is as follows.
 
 In progress:  
