@@ -13,6 +13,8 @@ _The Golden Rhinoceros_, François-Xavier Fauvelle
 
 On Deck:  
 _The Rule of Benedict_, Georg Holzherr, OSB  
+_The Day is Now Far Spent_, Cardinal Robert Sarah  
+_The Power of Silence: Against the Dictatorship of Noise_, Cardinal Robert Sarah  
 
 ---
 Books I'm using these days as an RCIA Catechist:
