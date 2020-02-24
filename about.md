@@ -9,12 +9,11 @@ Current reading activity is as follows.
 
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
-_The Golden Rhinoceros_, François-Xavier Fauvelle  
+_The Power of Silence: Against the Dictatorship of Noise_, Cardinal Robert Sarah  
 
 On Deck:  
 _The Rule of Benedict_, Georg Holzherr, OSB  
 _The Day is Now Far Spent_, Cardinal Robert Sarah  
-_The Power of Silence: Against the Dictatorship of Noise_, Cardinal Robert Sarah  
 
 ---
 Books I'm using these days as an RCIA Catechist:
@@ -31,6 +30,7 @@ _Readings in Church History_, ed. Colman Barry OSB
 ---
 Completed, most recent at the top:  
 
+_The Golden Rhinoceros: Histories of the African Middle Ages_, François-Xavier Fauvelle  
 _Gardening with the Native Plants of Tennessee_, Margie Hunter  
 _The Noonday Devil_, Dom Jean-Charles Nault, OSB  
 _Doors in the Walls of the World_, Peter Kreeft  
