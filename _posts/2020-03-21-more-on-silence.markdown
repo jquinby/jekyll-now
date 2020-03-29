@@ -3,7 +3,7 @@ layout: post
 title: More on silence 
 ---
 >The silence of God is elusive and inaccessible. But the person who prays
-knows that God hears him in the same way that he understood the last
+knows that God hears him in the same way that he understood the last words
 of Christ on the Cross. Mankind speaks, and God responds by his silence.  
 > --- Cardinal Robert Sarah
 
