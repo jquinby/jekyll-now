@@ -10,6 +10,8 @@ Current reading activity is as follows.
 In progress:  
 _The Spiritual Life_, Adolphe Tanquerey  
 _The Rule of Benedict_, Georg Holzherr, OSB  
+_A Distant Mirror: The Calamitous 14th Century_, Barbara Tuchman  
+_Death on a Friday Afternoon_, Richard John Neuhaus  
 
 On Deck:  
 _The Day is Now Far Spent_, Cardinal Robert Sarah  
