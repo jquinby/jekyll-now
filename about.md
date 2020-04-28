@@ -30,7 +30,7 @@ _Readings in Church History_, ed. Colman Barry OSB
 ---
 Completed, most recent at the top:  
 
-_A Distant Mirror: The Calamitous 14th Century_, Barbara Tuchman 
+_A Distant Mirror: The Calamitous 14th Century_, Barbara Tuchman  
 _The Power of Silence: Against the Dictatorship of Noise_, Cardinal Robert Sarah  
 _The Golden Rhinoceros: Histories of the African Middle Ages_, François-Xavier Fauvelle  
 _Gardening with the Native Plants of Tennessee_, Margie Hunter  
