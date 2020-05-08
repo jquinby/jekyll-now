@@ -8,9 +8,9 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_The Day is Now Far Spent_, Cardinal Robert Sarah  
+_The Dialogue_, St. Catherine of Siena (trans. Suzanne Noffke, OP)  
+_Nostromo_, Joseph Conrad  
 _The Spiritual Life_, Adolphe Tanquerey  
-_The Rule of Benedict_, Georg Holzherr, OSB  
 
 On Deck:  
 TBD  
@@ -29,7 +29,7 @@ _Readings in Church History_, ed. Colman Barry OSB
 
 ---
 Completed, most recent at the top:  
-
+_The Day is Now Far Spent_, Cardinal Robert Sarah (incomplete)
 _A Distant Mirror: The Calamitous 14th Century_, Barbara Tuchman  
 _The Power of Silence: Against the Dictatorship of Noise_, Cardinal Robert Sarah  
 _The Golden Rhinoceros: Histories of the African Middle Ages_, François-Xavier Fauvelle  
