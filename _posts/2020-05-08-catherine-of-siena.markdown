@@ -41,4 +41,4 @@ because of the pandemic. Public Mass may be starting up again soon, which is
 wonderful. The weather has gone all haywire. After one late frost which killed
 my vegetable seedlings and pummeled my fig, we're due for another one tonight,
 which means I'll be out covering everything up (again) and hoping for the best. This
-would be the latest freeze ever recorded here, breaking a 90-year old record. 
+would be the latest freeze ever recorded here, breaking a 90-year old record.  
