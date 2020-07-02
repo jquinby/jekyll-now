@@ -8,12 +8,14 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_The Life You Save May Be Your Own_, Paul Elie  
-_The Dialogue_, St. Catherine of Siena (trans. Suzanne Noffke, OP)  
 _The Spiritual Life_, Adolphe Tanquerey  
 
 On Deck:  
-TBD  
+_The Violent Bear It Away_, Flannery O'Connor  
+_Selected Works_, St. Bernard of Clairvaux (trans G.R. Evans)  
+_Natures Garden: A Guide to Identifying, Harvesting, and Preparing Edible Wild
+Plants_, Samuel Thayer  
+
 
 ---
 Books I'm using these days as an RCIA Catechist:
@@ -29,6 +31,8 @@ _Readings in Church History_, ed. Colman Barry OSB
 
 ---
 Completed, most recent at the top:  
+_The Life You Save May Be Your Own_, Paul Elie  
+_The Dialogue_, St. Catherine of Siena (trans. Suzanne Noffke, OP)  
 _The Day is Now Far Spent_, Cardinal Robert Sarah (incomplete)  
 _A Distant Mirror: The Calamitous 14th Century_, Barbara Tuchman  
 _The Power of Silence: Against the Dictatorship of Noise_, Cardinal Robert Sarah  
