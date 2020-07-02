@@ -8,8 +8,8 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
+_The Life You Save May Be Your Own_, Paul Elie  
 _The Dialogue_, St. Catherine of Siena (trans. Suzanne Noffke, OP)  
-_Nostromo_, Joseph Conrad  
 _The Spiritual Life_, Adolphe Tanquerey  
 
 On Deck:  
