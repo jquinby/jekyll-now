@@ -8,6 +8,7 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
+_Light in August_, William Faulkner  
 _The Spiritual Life_, Adolphe Tanquerey  
 
 On Deck:  
