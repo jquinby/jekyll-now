@@ -8,12 +8,11 @@ You are notified in advance that I blog chiefly to organize my thoughts around b
 Current reading activity is as follows.
 
 In progress:  
-_Light in August_, William Faulkner  
+_Selected Works_, St. Bernard of Clairvaux (trans G.R. Evans)  
 _The Spiritual Life_, Adolphe Tanquerey  
 
 On Deck:  
 _The Violent Bear It Away_, Flannery O'Connor  
-_Selected Works_, St. Bernard of Clairvaux (trans G.R. Evans)  
 _Natures Garden: A Guide to Identifying, Harvesting, and Preparing Edible Wild
 Plants_, Samuel Thayer  
 
@@ -32,6 +31,7 @@ _Readings in Church History_, ed. Colman Barry OSB
 
 ---
 Completed, most recent at the top:  
+_Light in August_, William Faulkner  
 _The Life You Save May Be Your Own_, Paul Elie  
 _The Dialogue_, St. Catherine of Siena (trans. Suzanne Noffke, OP)  
 _The Day is Now Far Spent_, Cardinal Robert Sarah (incomplete)  
